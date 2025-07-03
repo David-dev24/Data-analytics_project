@@ -42,7 +42,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 19/12/2022,United States of America,City of Mount Vernon,Public Administration,Undetermined,LockBit 3.0,Financial,Mixed,Data Attack,2022
 19/12/2022,Brazil,Monte Cristalina S.A,Other Services (except Public Administration),Undetermined,LockBit 3.0,Financial,Mixed,Data Attack,2022
 18/12/2022,Canada,Hospital for Sick Children (SickKids),Health Care and Social Assistance,Undetermined,LockBit 3.0,Financial,Mixed,Data Attack,2022
-18/12/2022,Venezuela (Bolivarian Republic of),Cervecería Regional,Accommodation and Food Services,Undetermined,Play,Financial,Exploitative,Undetermined,2022
+18/12/2022,Venezuela (Bolivarian Republic of),CervecerÃ­a Regional,Accommodation and Food Services,Undetermined,Play,Financial,Exploitative,Undetermined,2022
 18/12/2022,Italy,Conform,Educational Services,Undetermined,Royal,Financial,Mixed,Data Attack,2022
 17/12/2022,France,University Institute of Technology of Paris,Educational Services,Russian Federation,Vice Society,Financial,Mixed,Data Attack,2022
 17/12/2022,Undetermined,Undiscolsed NFT collector,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitative,Exploitation of End Host,2022
@@ -60,7 +60,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 14/12/2022,United States of America,FuboTV,Information,Undetermined,Undetermined,Undetermined,Disruptive,External Denial of Services,2022
 14/12/2022,Australia,TPG Telecom,Information,Undetermined,Undetermined,Financial,Exploitative,Exploitation of Application Server,2022
 14/12/2022,United States of America,Xavier University of Louisiana,Educational Services,Russian Federation,Vice Society,Financial,Mixed,Data Attack,2022
-14/12/2022,Brazil,Aegea Saneamento e Participações S.A,Administrative and Support and Waste Management and Remediation Services,Undetermined,Undetermined,Undetermined,Undetermined,Undetermined,2022
+14/12/2022,Brazil,Aegea Saneamento e ParticipaÃ§Ãµes S.A,Administrative and Support and Waste Management and Remediation Services,Undetermined,Undetermined,Undetermined,Undetermined,Undetermined,2022
 13/12/2022,United States of America,California Department of Finance,Public Administration,Undetermined,LockBit 3.0,Financial,Mixed,Data Attack,2022
 13/12/2022,Russian Federation,Moscow Electronic School,Educational Services,Ukraine,NLB Team,Protest,Exploitative,Exploitation of Application Server,2022
 13/12/2022,Switzerland,Publicare,Manufacturing,Russian Federation,Vice Society,Financial,Mixed,Data Attack,2022
@@ -68,9 +68,9 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 12/12/2022,Barbados,Queen Elizabeth Hospital,Health Care and Social Assistance,Undetermined,Undetermined,Undetermined,Undetermined,Undetermined,2022
 12/12/2022,United States of America,North Star Leasing,Finance and Insurance,Undetermined,Undetermined,Undetermined,Exploitative,Exploitation of Application Server,2022
 12/12/2022,France,Intersport,Wholesale Trade,Russian Federation,Hive,Financial,Exploitative,Exploitation of Application Server,2022
-12/12/2022,Colombia,Empresas P�blicas de Medell�n (EPM),Utilities,Russian Federation,ALPHVM,Financial,Mixed,Data Attack,2022
+12/12/2022,Colombia,Empresas Públicas de Medellín (EPM),Utilities,Russian Federation,ALPHVM,Financial,Mixed,Data Attack,2022
 12/12/2022,Sweden,Municipality of Borgholm,Public Administration,Undetermined,Undetermined,Financial,Mixed,Undetermined,2022
-12/12/2022,Sweden,Municipality of M�rbyl�nga,Public Administration,Undetermined,Undetermined,Financial,Mixed,Undetermined,2022
+12/12/2022,Sweden,Municipality of Mörbylånga,Public Administration,Undetermined,Undetermined,Financial,Mixed,Undetermined,2022
 11/12/2022,Germany,H-Hotels AG,Accommodation and Food Services,Undetermined,Play,Financial,Mixed,Data Attack,2022
 11/12/2022,Norway,REC Silicon,Manufacturing,Undetermined,RansomExx,Financial,Mixed,Data Attack,2022
 10/12/2022,United States of America,U.S. Federal Bureau of Investigation (FBI),Public Administration,Undetermined,USDoD,Undetermined,Exploitative,Exploitation of End Host,2022
@@ -90,7 +90,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 06/12/2022,Mexico,The Congress of Jalisco,Public Administration,Undetermined,Play,Financial,Mixed,Data Attack,2022
 06/12/2022,Spain,Feu Vert,Other Services (except Public Administration),Russian Federation,Vice Society,Financial,Mixed,Data Attack,2022
 05/12/2022,Belgium,Digipolis Antwerpen,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Exploitative,Exploitation of Application Server,2022
-05/12/2022,France,Andr�-Mignot Teaching Hospital,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Mixed,Data Attack,2022
+05/12/2022,France,André-Mignot Teaching Hospital,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Mixed,Data Attack,2022
 05/12/2022,Brazil,Iochpe-Maxion,Manufacturing,Undetermined,Undetermined,Undetermined,Disruptive,Data Attack,2022
 05/12/2022,United States of America,US COVID-relief funds,Public Administration,China,APT41,Financial,Exploitative,Exploitation of Application Server,2022
 05/12/2022,Argentina,The Argentinian National Institute of Statistics and Census (INDEC),Public Administration,Undetermined,Undetermined,Undetermined,Disruptive,Data Attack,2022
@@ -117,7 +117,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 30/11/2022,United States of America,Suffolk University,Educational Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
 30/11/2022,Holy See,Vatican website,Educational Services,Undetermined,Undetermined,Protest,Disruptive,Message Manipulation,2022
 30/11/2022,Argentina,Argentina de Soluciones Satelitales (ARSAT),Undetermined,Undetermined,Undetermined,Financial,Undetermined,Undetermined,2022
-30/11/2022,Brazil,Plascar Participa��es Industriais S.A. (Plascar),Administrative and Support and Waste Management and Remediation Services,Russian Federation,Vice Society,Financial,Mixed,Data Attack,2022
+30/11/2022,Brazil,Plascar Participações Industriais S.A. (Plascar),Administrative and Support and Waste Management and Remediation Services,Russian Federation,Vice Society,Financial,Mixed,Data Attack,2022
 30/11/2022,New Zealand,Mercury IT,Information,Undetermined,Undetermined,Financial,Mixed,Data Attack,2022
 30/11/2022,United Kingdom of Great Britain and Northern Ireland,Chestertons Inc.,Real Estate and Rental and Leasing,Undetermined,Lorenz,Financial,Mixed,Data Attack,2022
 30/11/2022,United States of America,Legacy Hospice,Health Care and Social Assistance,Undetermined,Undetermined,Undetermined,Exploitative,Exploitation of End Host,2022
@@ -164,7 +164,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 21/11/2022,United States of America,Receivables Performance Management,Finance and Insurance,Undetermined,Undetermined,Financial,Mixed,Data Attack,2022
 21/11/2022,United States of America,South Walton Fire District (SWFD),Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Undetermined,2022
 21/11/2022,India,Kannur University,Educational Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
-21/11/2022,Spain,Generali Espa�a,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Undetermined,2022
+21/11/2022,Spain,Generali España,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Undetermined,2022
 21/11/2022,Togo,New World TV,Information,Undetermined,Undetermined,Undetermined,Disruptive,External Denial of Services,2022
 19/11/2022,Russian Federation,Roskomnadzor,Information,Belarus,Belarusian Cyber Partisans,Protest,Exploitive,Undetermined,2022
 19/11/2022,United States of America,One Brooklyn Health,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Mixed,Data Attack,2022
@@ -176,7 +176,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 18/11/2022,Italy,Municipality of Torre del Greco (Comune di Torre del Greco),Public Administration,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2022
 17/11/2022,United States of America,Website of the White House (Whitehouse.gov),Public Administration,Russian Federation,Killnet,Protest,Disruptive,External Denial of Service,2022
 17/11/2022,United States of America,Rosewood Corporation,Real Estate and Rental and Leasing,Undetermined,Undetermined,Financial,Exploitive,Undetermined,2022
-17/11/2022,United States of America,County of�Tehama,Public Administration,Undetermined,Undetermined,Financial,Exploitive,Undetermined,2022
+17/11/2022,United States of America,County of Tehama,Public Administration,Undetermined,Undetermined,Financial,Exploitive,Undetermined,2022
 17/11/2022,United States of America,Pearland Independent School District,Educational Services,Undetermined,Undetermined,Financial,Exploitive,Undetermined,2022
 17/11/2022,Germany,Klinikum Lippe hospital,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2022
 17/11/2022,United States of America,P2 Energy Solutions,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Undetermined,Exploitative,Undetermined,2022
@@ -209,7 +209,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 11/11/2022,France,Conforama,Manufacturing,Russian Federation,ALPHVM,Financial,Mixed,Data Attack,2022
 11/11/2022,Spain,Undisclosed collection provider in Spain,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Undetermined,2022
 11/11/2022,Malaysia,Malaysian Election Commission,Public Administration,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
-11/11/2022,Hungary,eKR�TA,"Professional, Scientific, and Technical Services",Undetermined,Sawarim,Financial,Exploitive,Undetermined,2022
+11/11/2022,Hungary,eKRÉTA,"Professional, Scientific, and Technical Services",Undetermined,Sawarim,Financial,Exploitive,Undetermined,2022
 11/11/2022,United States of America,Stanley Street Treatment and Resources,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Undetermined,2022
 11/11/2022,United States of America,Greene County Tech School District,Educational Services,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2022
 11/11/2022,Undetermined,FTX,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
@@ -304,7 +304,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 26/10/2022,Germany,Enercity,Utilities,Undetermined,Undetermined,Financial,Undetermined,Undetermined,2022
 26/10/2022,Ecuador,Joint Command of the Armed Forces of Ecuador (Comando Conjunto de las Fuerzas Armadas Del Ecuador),Public Administration,Russian Federation,ALPHVM,Financial,Mixed,Data Attack,2022
 26/10/2022,United States of America,Convergent Outsourcing,Administrative and Support and Waste Management and Remediation Services,Undetermined,Undetermined,Financial,Mixed,Data Attack,2022
-26/10/2022,Brazil,Fisco Sa�de,Finance and Insurance,Undetermined,LockBit 3.0,Financial,Mixed,Data Attack,2022
+26/10/2022,Brazil,Fisco Saúde,Finance and Insurance,Undetermined,LockBit 3.0,Financial,Mixed,Data Attack,2022
 26/10/2022,Italy,Municipality of Padua (Comune di Padova),Public Administration,Undetermined,Undetermined,Financial,Exploitive,Undetermined,2022
 26/10/2022,United States of America,"Lakeside Software, LLC",Information,Undetermined,Undetermined,Undetermined,Exploitative,Undetermined,2022
 26/10/2022,United States of America,Miracapo pizza company,Accommodation and Food Services,Undetermined,Lorenz,Financial,Mixed,Data Attack,2022
@@ -316,7 +316,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 24/10/2022,Australia,Australian Institute of Company Directors (AIDC),Other Services (except Public Administration),Undetermined,Undetermined,Financial,Disruptive,Message Manipulation,2022
 24/10/2022,United States of America,Unnamed Management Services Organization,Administrative and Support and Waste Management and Remediation Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
 24/10/2022,Bahamas,FTX users,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Host,2022
-24/10/2022,Mexico,"Secretar�a de Comunicaciones y Transportes (SICT, Secretariat of Infrastructure, Communications and Transportation)",Public Administration,Undetermined,Undetermined,Financial,Disruptive,Undetermined,2022
+24/10/2022,Mexico,"Secretaría de Comunicaciones y Transportes (SICT, Secretariat of Infrastructure, Communications and Transportation)",Public Administration,Undetermined,Undetermined,Financial,Disruptive,Undetermined,2022
 24/10/2022,Australia,Harcourts,Real Estate and Rental and Leasing,Undetermined,Undetermined,Financial,Exploitive,Undetermined,2022
 23/10/2022,United States of America,Kenosha Unified School District,Educational Services,Undetermined,Snatch,Financial,Disruptive,Data Attack,2022
 22/10/2022,United States of America,Multi-Color Corporation (MCC),"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Exploitive,Undetermined,2022
@@ -331,7 +331,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 18/10/2022,Undetermined,Moola Market,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
 18/10/2022,United Kingdom of Great Britain and Northern Ireland,Kingfisher Insurance,Finance and Insurance,Undetermined,LockBit 3.0,Financial,Mixed,Data Attack,2022
 18/10/2022,Canada,Members of Parliament in Canada,Public Administration,Undetermined,Undetermined,Political-Espionage,Undetermined,Undetermined,2022
-18/10/2022,France,H�pital Pierre Rouqu�s � Les Bluets,Health Care and Social Assistance,Russian Federation,Vice Society,Financial,Mixed,Data Attack,2022
+18/10/2022,France,Hôpital Pierre Rouquès  Les Bluets,Health Care and Social Assistance,Russian Federation,Vice Society,Financial,Mixed,Data Attack,2022
 18/10/2022,Spain,Spain's National Renewable Energy Center (CENER),Public Administration,Undetermined,Undetermined,Financial,Undetermined,Undetermined,2022
 18/10/2022,United States of America,Wes-tec inc.,Information,Undetermined,Lorenz,Financial,Mixed,Data Attack,2022
 17/10/2022,Japan,Oomiya,"Professional, Scientific, and Technical Services",Undetermined,LockBit 3.0,Financial,Mixed,Data Attack,2022
@@ -465,7 +465,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 28/09/2022,United States of America,Disability Services of the Southwest,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2022
 27/09/2022,Undetermined,Ethereum arbitrage trading bot,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
 27/09/2022,United States of America,Cox Communications,Information,Undetermined,Undetermined,Undetermined,Disruptive,Physical Attack,2022
-27/09/2022,Brazil,Jaime Câmara Group (JCG),Information,Russian Federation,Vice Society,Financial,Mixed,Data Attack,2022
+27/09/2022,Brazil,Jaime CÃ¢mara Group (JCG),Information,Russian Federation,Vice Society,Financial,Mixed,Data Attack,2022
 27/09/2022,United States of America,Hope College,Educational Services,Undetermined,Undetermined,Undetermined,Exploitative,Undetermined,2022
 26/09/2022,Ukraine,Ukrainian foreign intelligence service,Public Administration,Russian Federation,RaHDIt,Protest,Exploitive,Exploitation of Application Server,2022
 26/09/2022,Ukraine,Undisclosed victim in Ukraine,Undetermined,Undetermined,Bl00dy,Undetermined,Mixed,Data Attack,2022
@@ -525,7 +525,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 14/09/2022,United States of America,M.C. Dean,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
 14/09/2022,India,IPCA Laboratories,"Professional, Scientific, and Technical Services",Undetermined,RansomHouse,Financial,Mixed,Data Attack,2022
 14/09/2022,United States of America,InSpecs EyeWear,Manufacturing,Undetermined,LockBit 3.0,Financial,Mixed,Data Attack,2022
-14/09/2022,Chile,Comision Nacional de Acreditación in Chile (CNA),Public Administration,Undetermined,LockBit 3.0,Financial,Mixed,Data Attack,2022
+14/09/2022,Chile,Comision Nacional de AcreditaciÃ³n in Chile (CNA),Public Administration,Undetermined,LockBit 3.0,Financial,Mixed,Data Attack,2022
 14/09/2022,Israel,Israeli ICS,Utilities,Iran (Islamic Republic of),GhostSec,Protest,Disruptive,Physical Attack,2022
 13/09/2022,United States of America,Davenport Community Schools,Educational Services,Undetermined,Karakurt,Financial,Mixed,Data Attack,2022
 13/09/2022,Argentina,Legislatura CABA (Legislature of Buenos Aires),Public Administration,Undetermined,Undetermined,Financial,Mixed,Data Attack,2022
@@ -586,7 +586,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 03/09/2022,Brazil,National Fund for Educational Development (FNDE),Public Administration,Undetermined,RansomExx,Financial,Mixed,Data Attack,2022
 03/09/2022,Italy,Undisclosed retailer,Retail Trade,Undetermined,Kelvin Security,Financial,Exploitive,Exploitation of Application Server,2022
 03/09/2022,China,WeChat,"Professional, Scientific, and Technical Services",Undetermined,AgainstTheWest,Protest,Exploitive,Exploitation of Application Server,2022
-03/09/2022,Brazil,Fundo Nacional de Desenvolvimento da Educa��o,Public Administration,Undetermined,RansomExx,Financial,Mixed,Data Attack,2022
+03/09/2022,Brazil,Fundo Nacional de Desenvolvimento da Educação,Public Administration,Undetermined,RansomExx,Financial,Mixed,Data Attack,2022
 02/09/2022,Russian Federation,Yandex Taxi,Transportation and Warehousing,Undetermined,Anonymous,Protest,Disruptive,Message Manipulation,2022
 02/09/2022,United States of America,Bardstown Connect,Information,Undetermined,Undetermined,Financial,Mixed,Data Attack,2022
 02/09/2022,United States of America,CBC Group (CBC),Retail Trade,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
@@ -634,7 +634,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 25/08/2022,United States of America,LastPass,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Host,2022
 25/08/2022,Undetermined,Undisclosed sports corporation,Retail Trade,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Host,2022
 25/08/2022,United States of America,DoorDash,Accommodation and Food Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Host,2022
-25/08/2022,Thailand,ThailandÍs Department of Medical Sciences,Public Administration,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
+25/08/2022,Thailand,ThailandÃs Department of Medical Sciences,Public Administration,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
 25/08/2022,United States of America,CorrectHealth,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Host,2022
 25/08/2022,United States of America,Ancora Holdings Group,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Host,2022
 25/08/2022,United States of America,Valex Corporation,Manufacturing,Undetermined,Undetermined,Financial,Mixed,Data Attack,2022
@@ -654,9 +654,9 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 23/08/2022,United States of America,Accelya,"Professional, Scientific, and Technical Services",Russian Federation,ALPHVM,Financial,Disruptive,Data Attack,2022
 23/08/2022,Singapore,Sando,"Professional, Scientific, and Technical Services",Undetermined,Donut Leaks,Financial,Mixed,Data Attack,2022
 23/08/2022,United States of America,"Baker & Taylor,","Arts, Entertainment, and Recreation",Undetermined,Undetermined,Financial,Disruptive,Data Attack,2022
-23/08/2022,Italy,Asl Cittö di Torino (National Health of the City of Turin),Health Care and Social Assistance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2022
+23/08/2022,Italy,Asl CittÃ¶ di Torino (National Health of the City of Turin),Health Care and Social Assistance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2022
 23/08/2022,United States of America,Axel Royal,Manufacturing,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
-23/08/2022,United States of America,CiCiÍs Pizza,Accommodation and Food Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
+23/08/2022,United States of America,CiCiÃs Pizza,Accommodation and Food Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
 23/08/2022,United States of America,Community Loan Servicing (CLS),Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
 23/08/2022,United States of America,Illinois K-12 School District,Educational Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Host,2022
 23/08/2022,United States of America,Moon Area School District,Educational Services,Russian Federation,Vice Society,Financial,Mixed,Data Attack,2022
@@ -673,7 +673,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 19/08/2022,United States of America,Sferra Fine Linens,Manufacturing,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
 19/08/2022,United Kingdom of Great Britain and Northern Ireland,Holdcroft Motor Group,Retail Trade,Undetermined,Undetermined,Financial,Mixed,Data Attack,2022
 19/08/2022,United States of America,Fremont County,Public Administration,Russian Federation,ALPHVM,Financial,Mixed,Data Attack,2022
-19/08/2022,United States of America,North DakotaÍs Department of Workforce Safety & Insurance (WSI),Public Administration,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Host,2022
+19/08/2022,United States of America,North DakotaÃs Department of Workforce Safety & Insurance (WSI),Public Administration,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Host,2022
 19/08/2022,Brazil,Prefeitura do Rio,Public Administration,Undetermined,Undetermined,Financial,Undetermined,Undetermined,2022
 18/08/2022,Canada,PROSOL,Utilities,Russian Federation,Vice Society,Financial,Mixed,Data Attack,2022
 18/08/2022,France,Department of Indre-et-Loire,Undetermined,Russian Federation,Vice Society,Financial,Mixed,Data Attack,2022
@@ -681,8 +681,8 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 18/08/2022,Estonia,ESTO AS,Finance and Insurance,Russian Federation,Killnet,Protest,Disruptive,External Denial of Service,2022
 18/08/2022,Undetermined,Undisclosed organization,Undetermined,Undetermined,Undetermined,Financial,Disruptive,External Denial of Service,2022
 18/08/2022,United States of America,General Bytes,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
-18/08/2022,United States of America,"Puerto RicoÍs Oficina de Servicios Legislativos (Office of Legislative Services, OLS)",Public Administration,Undetermined,Undetermined,Financial,Undetermined,Undetermined,2022
-18/08/2022,United States of America,Henderson & Walton WomenÍs Center (HWWC),Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Host,2022
+18/08/2022,United States of America,"Puerto RicoÃs Oficina de Servicios Legislativos (Office of Legislative Services, OLS)",Public Administration,Undetermined,Undetermined,Financial,Undetermined,Undetermined,2022
+18/08/2022,United States of America,Henderson & Walton WomenÃs Center (HWWC),Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Host,2022
 18/08/2022,United States of America,SF Fire Credit Union,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
 18/08/2022,United States of America,Newcourse Communications,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
 18/08/2022,United States of America,Lionel Holdings,Manufacturing,Undetermined,Undetermined,Financial,Mixed,Data Attack,2022
@@ -699,12 +699,12 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 17/08/2022,United States of America,Forsyth County Medical Office,Public Administration,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Host,2022
 16/08/2022,Spain,Consejo Superior de Investigaciones Cientificas,Public Administration,Russian Federation,Vice Society,Financial,Mixed,Data Attack,2022
 16/08/2022,Spain,Vygon Spain,"Professional, Scientific, and Technical Services",Russian Federation,Vice Society,Financial,Mixed,Data Attack,2022
-16/08/2022,Ukraine,Energoatom,Utilities,Russian Federation,PeopleÍs Cyber Army,Sabotage,Disruptive,External Denial of Service,2022
+16/08/2022,Ukraine,Energoatom,Utilities,Russian Federation,PeopleÃs Cyber Army,Sabotage,Disruptive,External Denial of Service,2022
 16/08/2022,United States of America,Service By Medallion (SBM),Other Services (except Public Administration),Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Host,2022
 16/08/2022,United States of America,HanesBrands,Manufacturing,Undetermined,Undetermined,Financial,Mixed,Data Attack,2022
 16/08/2022,Argentina,Aceitera General Deheza (AGD),Manufacturing,Undetermined,Undetermined,Financial,Mixed,Data Attack,2022
 15/08/2022,United States of America,Ascension St. Vincent's Coastal Cardiology,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Mixed,Data Attack,2022
-15/08/2022,Argentina,Argentina's Judiciary of C�'rdoba,Public Administration,Undetermined,Play,Financial,Disruptive,Data Attack,2022
+15/08/2022,Argentina,Argentina's Judiciary of CÃ'rdoba,Public Administration,Undetermined,Play,Financial,Disruptive,Data Attack,2022
 15/08/2022,United Kingdom of Great Britain and Northern Ireland,South Staffordshire Water,Utilities,Undetermined,Cl0p,Financial,Mixed,Data Attack,2022
 15/08/2022,United States of America,DigitalOcean,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Host,2022
 15/08/2022,Undetermined,BlackByte 2.0,Undetermined,Undetermined,Undetermined,Financial,Mixed,Data Attack,2022
@@ -715,7 +715,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 15/08/2022,United States of America,United HealthCare Services,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
 15/08/2022,France,Damart,Manufacturing,Russian Federation,Hive,Financial,Mixed,"Data Attack,Exploitation of Application Server",2022
 15/08/2022,United States of America,Eagle Mountain City,Public Administration,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Host,2022
-14/08/2022,Chile,Empresa Nacional del Petr�'leo (ENAP),"Mining, Quarrying, and Oil and Gas Extraction",Undetermined,SilverTerrier,Financial,Exploitive,Exploitation of End Host,2022
+14/08/2022,Chile,Empresa Nacional del PetrÃ'leo (ENAP),"Mining, Quarrying, and Oil and Gas Extraction",Undetermined,SilverTerrier,Financial,Exploitive,Exploitation of End Host,2022
 14/08/2022,United States of America,Dyersburg Family Walk-In Clinic,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
 13/08/2022,Undetermined,CS.MONEY,"Arts, Entertainment, and Recreation",Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Host,2022
 13/08/2022,India,BharatPay,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
@@ -726,9 +726,9 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 12/08/2022,United States of America,Onyx Technologies,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Mixed,Data Attack,2022
 12/08/2022,China,COVID health mobile app run by the city of Shanghai,Health Care and Social Assistance,Undetermined,XJP,Financial,Exploitive,Exploitation of Application Server,2022
 12/08/2022,Moldova (the Republic of),Presidency of Moldova,Public Administration,Undetermined,Undetermined,Political-Espionage,Exploitive,Exploitation of Application Server,2022
-12/08/2022,United States of America,MorrieÍs Auto Group,Retail Trade,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
+12/08/2022,United States of America,MorrieÃs Auto Group,Retail Trade,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
 11/08/2022,United States of America,Lockheed Martin,Manufacturing,Russian Federation,Killnet,Protest,Exploitive,Undetermined,2022
-11/08/2022,Latvia,Website of LatviaÍs parliament,Public Administration,Russian Federation,Killnet,Protest,Disruptive,External Denial of Service,2022
+11/08/2022,Latvia,Website of LatviaÃs parliament,Public Administration,Russian Federation,Killnet,Protest,Disruptive,External Denial of Service,2022
 11/08/2022,United States of America,Lee County Emergency Medical Services,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Undetermined,2022
 11/08/2022,United States of America,Unknown credit agency,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
 11/08/2022,Malaysia,iPay88,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
@@ -763,7 +763,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 08/08/2022,United States of America,Klaviyo,Other Services (except Public Administration),Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Host,2022
 08/08/2022,United States of America,Columbia River Mental Health Services (CRMHS),Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Host,2022
 08/08/2022,Bulgaria,Bulgarian Food Safety Agency (BFSA),Public Administration,Undetermined,Undetermined,Financial,Disruptive,External Denial of Service,2022
-08/08/2022,Brazil,Cämara Municipal de Teresina,Public Administration,Undetermined,Undetermined,Financial,Disruptive,Undetermined,2022
+08/08/2022,Brazil,CÃ¤mara Municipal de Teresina,Public Administration,Undetermined,Undetermined,Financial,Disruptive,Undetermined,2022
 08/08/2022,United States of America,eCapital Corp.,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Undetermined,2022
 08/08/2022,United States of America,Tift Regional Medical Center,Health Care and Social Assistance,Russian Federation,Hive,Financial,Mixed,"Data Attack,Exploitation of Application Server",2022
 07/08/2022,United States of America,Presbyterian Healthcare Services,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Host,2022
@@ -802,13 +802,13 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 05/08/2022,Brazil,"Brazil National Petroleum, Natural Gas and Biofuels Agency (ANP)",Public Administration,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2022
 05/08/2022,United States of America,Atlantic Dialysis Management Services (ADMS),Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Undetermined,2022
 05/08/2022,United States of America,Orlando Health,Health Care and Social Assistance,Undetermined,Undetermined,Undetermined,Exploitative,Exploitation of End Host,2022
-04/08/2022,Taiwan (Province of China),TaiwanÍs Ministry of National Defense,Public Administration,Undetermined,Undetermined,Protest,Disruptive,External Denial of Service,2022
+04/08/2022,Taiwan (Province of China),TaiwanÃs Ministry of National Defense,Public Administration,Undetermined,Undetermined,Protest,Disruptive,External Denial of Service,2022
 04/08/2022,United States of America,QuestionPro,Other Services (except Public Administration),Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
 04/08/2022,United States of America,Practice Resources,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Mixed,Data Attack,2022
 04/08/2022,United Arab Emirates,Spinneys,Retail Trade,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2022
 04/08/2022,United States of America,Friedrich Air Conditioning,Manufacturing,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2022
 04/08/2022,China,ENN Group,Utilities,Russian Federation,Hive,Financial,Mixed,"Data Attack,Exploitation of Application Server",2022
-04/08/2022,Taiwan (Province of China),TaiwanÍs Ministry of National Defense,Public Administration,Undetermined,Undetermined,Protest,Disruptive,External Denial of Service,2022
+04/08/2022,Taiwan (Province of China),TaiwanÃs Ministry of National Defense,Public Administration,Undetermined,Undetermined,Protest,Disruptive,External Denial of Service,2022
 04/08/2022,United States of America,QuestionPro,Other Services (except Public Administration),Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
 04/08/2022,United States of America,Practice Resources,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Mixed,Data Attack,2022
 04/08/2022,United States of America,Friedrich Air Conditioning,Manufacturing,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2022
@@ -819,9 +819,9 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 03/08/2022,Chile,Quiborax,"Mining, Quarrying, and Oil and Gas Extraction",Undetermined,Guacamaya,Protest,Exploitive,Exploitation of Application Server,2022
 03/08/2022,Venezuela (Bolivarian Republic of),Oryx,"Mining, Quarrying, and Oil and Gas Extraction",Undetermined,Guacamaya,Protest,Exploitive,Exploitation of Application Server,2022
 03/08/2022,Brazil,Tejucana,"Mining, Quarrying, and Oil and Gas Extraction",Undetermined,Guacamaya,Protest,Exploitive,Exploitation of Application Server,2022
-03/08/2022,Guatemala,GuatemalaÍs Ministerio De Ambiente y Recursos Naturales.,Public Administration,Undetermined,Guacamaya,Protest,Exploitive,Exploitation of Application Server,2022
+03/08/2022,Guatemala,GuatemalaÃs Ministerio De Ambiente y Recursos Naturales.,Public Administration,Undetermined,Guacamaya,Protest,Exploitive,Exploitation of Application Server,2022
 03/08/2022,China,Heilongjiang Society Scientific Community Federations,Public Administration,Undetermined,Anonymous,Protest,Disruptive,Message Manipulation,2022
-03/08/2022,Brazil,Tribunal de Justia do Distrito Federal e dos Territ�'rios,Public Administration,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2022
+03/08/2022,Brazil,Tribunal de JustiÂa do Distrito Federal e dos TerritÃ'rios,Public Administration,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2022
 03/08/2022,United States of America,Linn-Mar School District,Educational Services,Russian Federation,Vice Society,Financial,Mixed,Data Attack,2022
 03/08/2022,United States of America,The Country Club at Woodfield (Woodfield Country Club),"Arts, Entertainment, and Recreation",Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
 03/08/2022,Undetermined,Solana,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
@@ -832,7 +832,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 03/08/2022,Colombia,New Granada Energy Corporation,"Mining, Quarrying, and Oil and Gas Extraction",Undetermined,Guacamaya,Protest,Exploitive,Exploitation of Application Server,2022
 03/08/2022,Chile,Quiborax,"Mining, Quarrying, and Oil and Gas Extraction",Undetermined,Guacamaya,Protest,Exploitive,Exploitation of Application Server,2022
 03/08/2022,Venezuela (Bolivarian Republic of),Oryx,"Mining, Quarrying, and Oil and Gas Extraction",Undetermined,Guacamaya,Protest,Exploitive,Exploitation of Application Server,2022
-03/08/2022,Guatemala,GuatemalaÍs Ministerio De Ambiente y Recursos Naturales.,Public Administration,Undetermined,Guacamaya,Protest,Exploitive,Exploitation of Application Server,2022
+03/08/2022,Guatemala,GuatemalaÃs Ministerio De Ambiente y Recursos Naturales.,Public Administration,Undetermined,Guacamaya,Protest,Exploitive,Exploitation of Application Server,2022
 03/08/2022,United States of America,Linn-Mar School District,Educational Services,Russian Federation,Vice Society,Financial,Mixed,Data Attack,2022
 03/08/2022,United States of America,The Country Club at Woodfield (Woodfield Country Club),"Arts, Entertainment, and Recreation",Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
 02/08/2022,United States of America,Lifespire Services,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
@@ -1158,7 +1158,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 06/06/2022,United States of America,Floyd County school system,Educational Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Host,2022
 06/06/2022,United States of America,Numrich Gun Parts Corporation,Retail Trade,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
 06/06/2022,United States of America,Floyd County school system,Educational Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Host,2022
-05/06/2022,Spain,Hospital San JosÃ©,Health Care and Social Assistance,Undetermined,LockBit,Financial,Disruptive,External Denial of Service,2022
+05/06/2022,Spain,Hospital San JosÃÂ©,Health Care and Social Assistance,Undetermined,LockBit,Financial,Disruptive,External Denial of Service,2022
 05/06/2022,Ukraine,OLL.TV,Information,Undetermined,Undetermined,Protest,Disruptive,Internal Denial of Service,2022
 05/06/2022,Spain,Hospital San Jose,Health Care and Social Assistance,Undetermined,LockBit,Financial,Mixed,Data Attack,2022
 04/06/2022,United States of America,Cardiac Imaging Associates (CIA),Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Host,2022
@@ -1326,7 +1326,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 03/05/2022,Undetermined,"Government, military, logistics and manufacturing organizations in Ukraine, Russia and Central Asia",Public Administration,China,Curious Gorge,Political-Espionage,Disruptive,Undetermined,2022
 03/05/2022,Ukraine,High risk individuals in Ukraine,Undetermined,Belarus,Ghostwriter,Political-Espionage,Exploitive,Exploitation of End Host,2022
 03/05/2022,Undetermined,"Government and defense officials, politicians, NGOs and think tanks, and journalists",Public Administration,Russian Federation,Calisto,Political-Espionage,Exploitive,Exploitation of End Host,2022
-03/05/2022,Undetermined,Defense and cybersecurity organizations in the Baltics,"Professional, Scientific, and Technical Services",Russian Federation,FSB 18th�Center for Information Security (Berserk Bear),Political-Espionage,Disruptive,Internal Denial of Service,2022
+03/05/2022,Undetermined,Defense and cybersecurity organizations in the Baltics,"Professional, Scientific, and Technical Services",Russian Federation,FSB 18th Center for Information Security (Berserk Bear),Political-Espionage,Disruptive,Internal Denial of Service,2022
 03/05/2022,United States of America,Allwell Behavioral Health Services,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2022
 03/05/2022,United States of America,Capsule,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Host,2022
 03/05/2022,United Kingdom of Great Britain and Northern Ireland,Thomson Broadbent,"Professional, Scientific, and Technical Services",Undetermined,Snatch,Financial,Mixed,Data Attack,2022
@@ -1383,13 +1383,13 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 25/04/2022,United States of America,Yuma Regional Medical Center (YRMC),Health Care and Social Assistance,Undetermined,Undetermined,Financial,Mixed,Data Attack,2022
 25/04/2022,United States of America,Brunk Industries Inc.,Manufacturing,Undetermined,Lorenz,Financial,Mixed,Data Attack,2022
 24/04/2022,Undetermined,Undisclosed organization,Undetermined,Undetermined,Quantum,Financial,Mixed,"Data Attack,Exploitation of Application Server",2022
-24/04/2022,Costa Rica,Junta Administrativa del Servicio ElÃƒÂ©ctrico de Cartago (JASEC),Utilities,Russian Federation,WIZARD SPIDER,Financial,Mixed,"Data Attack,Exploitation of Application Server",2022
+24/04/2022,Costa Rica,Junta Administrativa del Servicio ElÃÆÃÂ©ctrico de Cartago (JASEC),Utilities,Russian Federation,WIZARD SPIDER,Financial,Mixed,"Data Attack,Exploitation of Application Server",2022
 24/04/2022,United States of America,LACKS,Manufacturing,Undetermined,Black Basta,Financial,Mixed,Data Attack,2022
 24/04/2022,France,Oralia,Real Estate and Rental and Leasing,Undetermined,Black Basta,Financial,Mixed,Data Attack,2022
 24/04/2022,Germany,Plauen Stahl Technologie GmbH,"Professional, Scientific, and Technical Services",Undetermined,Black Basta,Financial,Mixed,Data Attack,2022
 24/04/2022,Germany,UNIWELL Rohrsysteme GmbH & Co.,Manufacturing,Undetermined,Black Basta,Financial,Mixed,Data Attack,2022
 24/04/2022,Costa Rica,Costa Rica's Junta De Proteccion Social,Public Administration,Undetermined,LockBit 3.0,Financial,Mixed,Data Attack,2022
-23/04/2022,Germany,TÃœV NORD GROUP,Information,Undetermined,Black Basta,Financial,Mixed,Data Attack,2022
+23/04/2022,Germany,TÃÅV NORD GROUP,Information,Undetermined,Black Basta,Financial,Mixed,Data Attack,2022
 22/04/2022,United States of America,American Dental Association (ADA),Health Care and Social Assistance,Undetermined,Black Basta,Financial,Disruptive,Data Attack,2022
 22/04/2022,Brazil,Secretary of State for Finance of Rio de Janeiro,Public Administration,Undetermined,LockBit,Financial,Disruptive,Data Attack,2022
 22/04/2022,United States of America,T-Mobile,Information,Undetermined,Lapsus$,Financial,Exploitive,Exploitation of End Hosts,2022
@@ -1429,7 +1429,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 22/04/2022,Austria,Tiroler Rohre GmbH,Manufacturing,Undetermined,Black Basta,Financial,Mixed,Data Attack,2022
 22/04/2022,United States of America,Roche Bobois,Retail Trade,Undetermined,Black Basta,Financial,Mixed,Data Attack,2022
 22/04/2022,United States of America,Jinny Beauty Supply,Retail Trade,Undetermined,Black Basta,Financial,Mixed,Data Attack,2022
-22/04/2022,Germany,Bernd HÃ¶sele Group,"Professional, Scientific, and Technical Services",Undetermined,Black Basta,Financial,Mixed,Data Attack,2022
+22/04/2022,Germany,Bernd HÃÂ¶sele Group,"Professional, Scientific, and Technical Services",Undetermined,Black Basta,Financial,Mixed,Data Attack,2022
 22/04/2022,United Kingdom of Great Britain and Northern Ireland,DPP Law,"Professional, Scientific, and Technical Services",Undetermined,Black Basta,Financial,Mixed,Data Attack,2022
 22/04/2022,Spain,GRUPO mh,"Professional, Scientific, and Technical Services",Undetermined,Black Basta,Financial,Mixed,Data Attack,2022
 22/04/2022,Canada,PARADOX,"Professional, Scientific, and Technical Services",Undetermined,Black Basta,Financial,Mixed,Data Attack,2022
@@ -2529,7 +2529,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 04/06/2021,Ukraine,Ukranian Secret Service,Public Administration,Undetermined,Undetermined,Political-Espionage,Exploitive,Exploitation of End Hosts,2021
 04/06/2021,Ukraine,Ukranian Cyber Police,Public Administration,Undetermined,Undetermined,Political-Espionage,Exploitive,Exploitation of End Hosts,2021
 04/06/2021,Ukraine,CERT Ukraine,Public Administration,Undetermined,Undetermined,Political-Espionage,Exploitive,Exploitation of End Hosts,2021
-04/06/2021,France,Produits de Revtement du B�timent,Manufacturing,Undetermined,Undetermined,Financial,Undetermined,Undetermined,2021
+04/06/2021,France,Produits de Revtement du B¢timent,Manufacturing,Undetermined,Undetermined,Financial,Undetermined,Undetermined,2021
 04/06/2021,India,Bruhat Bengaluru Mahanagara Palike Commissioner,Public Administration,Undetermined,Undetermined,Protest,Disruptive,Message Manipulation,2021
 04/06/2021,United States of America,Forefront Dermatology,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Servers,2021
 03/06/2021,Taiwan (Province of China),Taiwan Kadokawa Co.,Information,Undetermined,Undetermined,Financial,Mixed,"Data Attack,Exploitation of Application Server",2021
@@ -2562,7 +2562,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 28/05/2021,United States of America,Five Rivers Health Center,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Hosts,2021
 28/05/2021,United States of America,"St. Clair County, Illinois",Public Administration,Undetermined,PayorGrief,Financial,Mixed,"Data Attack,Undetermined",2021
 28/05/2021,United States of America,Vicksburg Warren School District,Educational Services,Russian Federation,Grief,Financial,Disruptive,Undetermined,2021
-27/05/2021,Mexico,PronÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ'Ã¢â'¬Â 'ÃƒÆ'Ã†'Ãƒ''ÃƒÆ''Ãƒ'Ã'Â³sticos Deportivos,Public Administration,Russian Federation,Avaddon,Financial,Mixed,"Data Attack,Undetermined",2021
+27/05/2021,Mexico,PronÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ'ÃÂ¢Ã¢'Â¬ÃÂ 'ÃÆÃ'Ãâ 'ÃÆ''ÃÆÃ''ÃÆ'Ã'ÃÂ³sticos Deportivos,Public Administration,Russian Federation,Avaddon,Financial,Mixed,"Data Attack,Undetermined",2021
 26/05/2021,United States of America,Clover Park School District,Educational Services,Undetermined,PayOrG,Financial,Mixed,"Data Attack,Undetermined",2021
 26/05/2021,United States of America,Clover Park School District,Educational Services,Undetermined,PayorGrief,Financial,Mixed,"Data Attack,Undetermined",2021
 26/05/2021,United States of America,California City,Public Administration,Undetermined,Undetermined,Financial,Mixed,"Data Attack,Undetermined",2021
@@ -2645,8 +2645,8 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 01/05/2021,United States of America,LineStar Integrity Services,"Professional, Scientific, and Technical Services",Undetermined,Xing Team,Financial,Mixed,"Data Attack,Exploitation of Application Server",2021
 01/05/2021,United States of America,Scripps Health,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
 01/05/2021,United States of America,Easy Ordering,Accommodation and Food Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Sensors,2021
-30/04/2021,Germany,MÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ'Ã¢â'¬Â 'ÃƒÆ'Ã†'Ãƒ''ÃƒÆ''Ãƒ'Ã'Â¶belstadt Sommerlad,Retail Trade,Russian Federation,DarkSide,Financial,Mixed,"Data Attack,Undetermined",2021
-30/04/2021,Germany,Technische UniversitÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ''Ãƒ'Ã'Â¤t Berlin (TU),Educational Services,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
+30/04/2021,Germany,MÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ'ÃÂ¢Ã¢'Â¬ÃÂ 'ÃÆÃ'Ãâ 'ÃÆ''ÃÆÃ''ÃÆ'Ã'ÃÂ¶belstadt Sommerlad,Retail Trade,Russian Federation,DarkSide,Financial,Mixed,"Data Attack,Undetermined",2021
+30/04/2021,Germany,Technische UniversitÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ''ÃÆ'Ã'ÃÂ¤t Berlin (TU),Educational Services,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
 30/04/2021,United States of America,Mount Desert Sewage Treatment Plant,Utilities,Undetermined,Undetermined,Financial,Mixed,"Data Attack,Exploitation of Application Server",2021
 30/04/2021,United Kingdom of Great Britain and Northern Ireland,HBP Financial Services Group,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Hosts,2021
 30/04/2021,South Africa,Debt-IN Consultants,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Servers,2021
@@ -2704,7 +2704,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 19/04/2021,United States of America,Metropolitan Police Department of the District of Columbia,Public Administration,Undetermined,Babuk,Financial,Mixed,"Data Attack,Exploitation of Application Server",2021
 19/04/2021,United States of America,Union Community School District,Educational Services,Russian Federation,DoppelPaymer,Financial,Mixed,"Data Attack,Undetermined",2021
 18/04/2021,United Kingdom of Great Britain and Northern Ireland,Merseyrail,Transportation and Warehousing,Undetermined,Undetermined,Financial,Mixed,"Data Attack,Exploitation of End Host",2021
-18/04/2021,France,"Permanent Center for Environmental Initiatives of GÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ'Ã¢â'¬Â 'ÃƒÆ'Ã†'Ãƒ''ÃƒÆ''Ãƒ'Ã'Â¢tine, CPIE",Other Services (except Public Administration),Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
+18/04/2021,France,"Permanent Center for Environmental Initiatives of GÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ'ÃÂ¢Ã¢'Â¬ÃÂ 'ÃÆÃ'Ãâ 'ÃÆ''ÃÆÃ''ÃÆ'Ã'ÃÂ¢tine, CPIE",Other Services (except Public Administration),Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
 18/04/2021,United States of America,Presque Isle Police Department,Public Administration,Russian Federation,Avaddon,Financial,Mixed,"Data Attack,Undetermined",2021
 18/04/2021,India,Domino's India,Accommodation and Food Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2021
 17/04/2021,United States of America,"Lightfoot, Franklin & Wright, LLC","Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Mixed,"Exploitation of End Hosts,Data Attack",2021
@@ -2738,7 +2738,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 10/04/2021,Italy,Turin Territorial Housing Agency (Agenzia Territoriale per la Casa - ATC),Real Estate and Rental and Leasing,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
 10/04/2021,United States of America,Office of Illinois Attorney General Kwame Raoul,Public Administration,Russian Federation,DoppelPaymer,Financial,Exploitive,Exploitation of Application Servers,2021
 09/04/2021,United States of America,DigitalOcean,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Undetermined,Exploitive,Undetermined,2021
-09/04/2021,France,City of Mori�res-l�s-Avignon,Public Administration,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
+09/04/2021,France,City of Mori¨res-lÃs-Avignon,Public Administration,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
 09/04/2021,France,City of Isle-sur-la-Sorgue,Public Administration,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
 09/04/2021,Switzerland,Swiss General trade school (Allgemeine Gewerbeschule),Educational Services,Russian Federation,WIZARD SPIDER,Financial,Disruptive,Data Attack,2021
 08/04/2021,Italy,Partit Nazzjonalista (Nationalist Party of Malta).,Other Services (except Public Administration),Russian Federation,Avaddon,Financial,Mixed,"Data Attack,Exploitation of Application Server",2021
@@ -2772,7 +2772,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 31/03/2021,France,Pierre Fabre,Health Care and Social Assistance,Russian Federation,REvil,Financial,Mixed,"Data Attack,Undetermined",2021
 31/03/2021,United States of America,University of California Davis,Educational Services,Undetermined,TA505,Financial,Exploitive,Exploitation of Application Server,2021
 31/03/2021,United States of America,University of California,Educational Services,Undetermined,TA505,Financial,Exploitive,Exploitation of Application Server,2021
-31/03/2021,Germany,City of AngermÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ''Ãƒ'Ã'Â¼nde,Public Administration,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
+31/03/2021,Germany,City of AngermÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ''ÃÆ'Ã'ÃÂ¼nde,Public Administration,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
 31/03/2021,Indonesia,Indonesia's major banks,Finance and Insurance,Undetermined,Undetermined,Financial,Disruptive,Message Manipulation,2021
 30/03/2021,United States of America,Applus Technologies,Other Services (except Public Administration),Undetermined,Undetermined,Undetermined,Undetermined,Undetermined,2021
 30/03/2021,Romania,Unix Auto SRL,Retail Trade,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
@@ -2988,8 +2988,8 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 01/03/2021,India,Bharat Biotech,"Professional, Scientific, and Technical Services",China,Ministry of State Security's (MSS) Tianjin State Security Department (APT10),Industrial-Espionage,Exploitive,Exploitation of Application Server,2021
 01/03/2021,India,Serum Institute of India (SII),Undetermined,China,Ministry of State Security's (MSS) Tianjin State Security Department (APT10),Industrial-Espionage,Exploitive,Exploitation of Application Server,2021
 01/03/2021,United States of America,Nevada Water and Wastewater System,Utilities,Undetermined,Undetermined,Financial,Disruptive,Physical Attack,2021
-01/03/2021,Afghanistan,Roshan,Information,China,PLA Unit�69010 (Wicked PANDA),Political-Espionage,Exploitive,Exploitation of Application Servers,2021
-01/03/2021,Afghanistan,Undisclosed Afghan telecommunications organization,Information,China,PLA Unit�69010 (Wicked PANDA),Political-Espionage,Exploitive,Exploitation of Application Servers,2021
+01/03/2021,Afghanistan,Roshan,Information,China,PLA Unit 69010 (Wicked PANDA),Political-Espionage,Exploitive,Exploitation of Application Servers,2021
+01/03/2021,Afghanistan,Undisclosed Afghan telecommunications organization,Information,China,PLA Unit 69010 (Wicked PANDA),Political-Espionage,Exploitive,Exploitation of Application Servers,2021
 01/03/2021,United Kingdom of Great Britain and Northern Ireland,Defense Academy of the United Kingdom,Public Administration,Undetermined,Undetermined,Undetermined,Undetermined,Undetermined,2021
 28/02/2021,United States of America,Millersville University,Educational Services,Undetermined,Undetermined,Financial,Disruptive,External Denial of Service,2021
 28/02/2021,Turkey,Adim Adim,Other Services (except Public Administration),Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2021
@@ -3043,11 +3043,11 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 22/02/2021,Ukraine,Ukrainian government websites,Public Administration,Undetermined,Egregor,Financial,Disruptive,External Denial of Service,2021
 22/02/2021,United States of America,Enders Insurance,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Hosts,2021
 22/02/2021,United States of America,Danaher,Undetermined,Russian Federation,FIN11,Financial,Exploitive,Exploitation of Network Infrastructure,2021
-22/02/2021,France,City and municipality of Chalon-sur-SaÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ'Ã¢â'¬Â 'ÃƒÆ'Ã†'Ãƒ''ÃƒÆ''Ãƒ'Ã'Â´ne,Public Administration,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
+22/02/2021,France,City and municipality of Chalon-sur-SaÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ'ÃÂ¢Ã¢'Â¬ÃÂ 'ÃÆÃ'Ãâ 'ÃÆ''ÃÆÃ''ÃÆ'Ã'ÃÂ´ne,Public Administration,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
 22/02/2021,France,Charles Andr Group,Transportation and Warehousing,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
 22/02/2021,United States of America,American Bureau of Shipping,Administrative and Support and Waste Management and Remediation Services,Russian Federation,FIN11,Financial,Exploitive,Exploitation of Network Infrastructure,2021
 21/02/2021,United States of America,Gyrodata,"Mining, Quarrying, and Oil and Gas Extraction",Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
-21/02/2021,United States of America,"St. Margaret's HealthÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ''Ãƒ'Ã'Â¢ÃƒÆ'Ã†'Ãƒ''ÃƒÆ'Ã'Â¢Ãƒ''Ãƒ'Ã'Â¬""Spring Valley",Health Care and Social Assistance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
+21/02/2021,United States of America,"St. Margaret's HealthÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ''ÃÆ'Ã'ÃÂ¢ÃÆÃ'Ãâ 'ÃÆ''ÃÆÃ'Ã'ÃÂ¢ÃÆ''ÃÆ'Ã'ÃÂ¬""Spring Valley",Health Care and Social Assistance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
 21/02/2021,United States of America,Saginaw Township Community Schools,Educational Services,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
 20/02/2021,Canada,Coleman Group of Companies,Retail Trade,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2021
 20/02/2021,United Kingdom of Great Britain and Northern Ireland,NurseryCam,Administrative and Support and Waste Management and Remediation Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2021
@@ -3074,7 +3074,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 17/02/2021,United States of America,Cochise Eye and Laser,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
 17/02/2021,United States of America,Watermark Retirement Communities,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2021
 17/02/2021,Netherlands,University of Amsterdam,Educational Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Network Infrastructure,2021
-17/02/2021,United States of America,"University of Alabama ÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ''Ãƒ'Ã'Â¢ÃƒÆ'Ã†'Ãƒ''ÃƒÆ'Ã'Â¢Ãƒ''Ãƒ'Ã'Â¬"" Huntsville (UAH)",Educational Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Hosts,2021
+17/02/2021,United States of America,"University of Alabama ÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ''ÃÆ'Ã'ÃÂ¢ÃÆÃ'Ãâ 'ÃÆ''ÃÆÃ'Ã'ÃÂ¢ÃÆ''ÃÆ'Ã'ÃÂ¬"" Huntsville (UAH)",Educational Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Hosts,2021
 17/02/2021,United States of America,Southern Arkansas University,Educational Services,Russian Federation,REvil,Financial,Disruptive,Data Attack,2021
 17/02/2021,United States of America,Regional Independent School District 2142,Educational Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Hosts,2021
 17/02/2021,United States of America,Hellenic Defense Systems,Manufacturing,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
@@ -3094,12 +3094,12 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 17/02/2021,United States of America,Cochise Eye and Laser,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
 17/02/2021,United States of America,Watermark Retirement Communities,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2021
 17/02/2021,Netherlands,University of Amsterdam,Educational Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Network Infrastructure,2021
-17/02/2021,United States of America,"University of Alabama ÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ''Ãƒ'Ã'Â¢ÃƒÆ'Ã†'Ãƒ''ÃƒÆ'Ã'Â¢Ãƒ''Ãƒ'Ã'Â¬"" Huntsville (UAH)",Educational Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Hosts,2021
+17/02/2021,United States of America,"University of Alabama ÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ''ÃÆ'Ã'ÃÂ¢ÃÆÃ'Ãâ 'ÃÆ''ÃÆÃ'Ã'ÃÂ¢ÃÆ''ÃÆ'Ã'ÃÂ¬"" Huntsville (UAH)",Educational Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Hosts,2021
 17/02/2021,United States of America,Southern Arkansas University,Educational Services,Russian Federation,REvil,Financial,Disruptive,Data Attack,2021
 17/02/2021,United States of America,Regional Independent School District 2142,Educational Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Hosts,2021
 17/02/2021,United States of America,Hellenic Defense Systems,Manufacturing,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
 17/02/2021,Lithuania,CityBee,Transportation and Warehousing,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2021
-16/02/2021,Italy,ValdÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ'Ã¢â'¬Â 'ÃƒÆ'Ã†'Ãƒ''ÃƒÆ''Ãƒ'Ã'Â¨s Analysis Laboratory,Health Care and Social Assistance,Undetermined,Ragnar Locker,Financial,Disruptive,Data Attack,2021
+16/02/2021,Italy,ValdÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ'ÃÂ¢Ã¢'Â¬ÃÂ 'ÃÆÃ'Ãâ 'ÃÆ''ÃÆÃ''ÃÆ'Ã'ÃÂ¨s Analysis Laboratory,Health Care and Social Assistance,Undetermined,Ragnar Locker,Financial,Disruptive,Data Attack,2021
 16/02/2021,United States of America,Rehoboth McKinley Christian Health Care,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Data Attack,2021
 16/02/2021,Russian Federation,Club2Crd,Other Services (except Public Administration),Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2021
 16/02/2021,Russian Federation,Dread,Other Services (except Public Administration),Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2021
@@ -3147,7 +3147,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 09/02/2021,United States of America,University of Colorado,Educational Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Network Infrastructure,2021
 09/02/2021,United Kingdom of Great Britain and Northern Ireland,SapphireSecure.net,Information,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
 09/02/2021,United Kingdom of Great Britain and Northern Ireland,KS-Hosting.com,Information,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
-09/02/2021,France,Dax-C�te d'Argent hospital,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
+09/02/2021,France,Dax-C´te d'Argent hospital,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
 09/02/2021,France,Dax Hospital,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2021
 08/02/2021,United States of America,Wolfe Eye Clinic,Health Care and Social Assistance,Undetermined,Lorenz,Financial,Mixed,"Data Attack,Exploitation of End Host",2021
 08/02/2021,United States of America,Water facility in the city of Oldsmar,Utilities,Undetermined,Undetermined,Financial,Disruptive,Physical Attack,2021
@@ -3164,7 +3164,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 06/02/2021,Malaysia,Ifmal,Retail Trade,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2021
 06/02/2021,France,BVA,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
 06/02/2021,United States of America,Indian Creek Foundation,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Mixed,"Data Attack,Exploitation of Application Server",2021
-05/02/2021,France,Mutuelle Nationale des Hospitaliers et des professionnels de la santÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ'Ã¢â'¬Â 'ÃƒÆ'Ã†'Ãƒ''ÃƒÆ''Ãƒ'Ã'Â© et du social,Health Care and Social Assistance,Undetermined,RansomExx,Financial,Disruptive,Data Attack,2021
+05/02/2021,France,Mutuelle Nationale des Hospitaliers et des professionnels de la santÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ'ÃÂ¢Ã¢'Â¬ÃÂ 'ÃÆÃ'Ãâ 'ÃÆ''ÃÆÃ''ÃÆ'Ã'ÃÂ© et du social,Health Care and Social Assistance,Undetermined,RansomExx,Financial,Disruptive,Data Attack,2021
 05/02/2021,France,SVI Assurances,Finance and Insurance,Russian Federation,Avaddon,Financial,Disruptive,Data Attack,2021
 05/02/2021,Australia,SitePoint,Information,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2021
 05/02/2021,United States of America,Salt Lake Community College,Educational Services,Undetermined,Undetermined,Financial,Disruptive,Message Manipulation,2021
@@ -3197,12 +3197,12 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 01/02/2021,China,Unidentified organization in China,Undetermined,China,Earth Longzhi,Espionage,Exploitive,Undetermined,2021
 01/02/2021,China,Unidentified organization in China,Undetermined,China,Earth Longzhi,Espionage,Exploitive,Undetermined,2021
 01/02/2021,Taiwan (Province of China),Unidentified organization,Public Administration,China,Earth Longzhi,Espionage,Exploitive,Undetermined,2021
-01/02/2021,India,"High-profile victims in the defense, aviation, insurance, and urban development industries in Taiwan, China, Thailand, Malaysia, Indonesia, Pakistan, and Ukraine.�",Undetermined,China,Earth Longzhi,Espionage,Exploitive,Undetermined,2021
-01/02/2021,Malaysia,"High-profile victims in the defense, aviation, insurance, and urban development industries in Taiwan, China, Thailand, Malaysia, Indonesia, Pakistan, and Ukraine.�",Undetermined,China,Earth Longzhi,Espionage,Exploitive,Undetermined,2021
-01/02/2021,Taiwan (Province of China),"High-profile victims in the defense, aviation, insurance, and urban development industries in Taiwan, China, Thailand, Malaysia, Indonesia, Pakistan, and Ukraine.�",Undetermined,China,Earth Longzhi,Espionage,Exploitive,Undetermined,2021
-01/02/2021,Thailand,"High-profile victims in the defense, aviation, insurance, and urban development industries in Taiwan, China, Thailand, Malaysia, Indonesia, Pakistan, and Ukraine.�",Undetermined,China,Earth Longzhi,Espionage,Exploitive,Undetermined,2021
-01/02/2021,Pakistan,"High-profile victims in the defense, aviation, insurance, and urban development industries in Taiwan, China, Thailand, Malaysia, Indonesia, Pakistan, and Ukraine.�",Undetermined,China,Earth Longzhi,Espionage,Exploitive,Undetermined,2021
-01/02/2021,Ukraine,"High-profile victims in the defense, aviation, insurance, and urban development industries in Taiwan, China, Thailand, Malaysia, Indonesia, Pakistan, and Ukraine.�",Undetermined,China,Earth Longzhi,Espionage,Exploitive,Undetermined,2021
+01/02/2021,India,"High-profile victims in the defense, aviation, insurance, and urban development industries in Taiwan, China, Thailand, Malaysia, Indonesia, Pakistan, and Ukraine. ",Undetermined,China,Earth Longzhi,Espionage,Exploitive,Undetermined,2021
+01/02/2021,Malaysia,"High-profile victims in the defense, aviation, insurance, and urban development industries in Taiwan, China, Thailand, Malaysia, Indonesia, Pakistan, and Ukraine. ",Undetermined,China,Earth Longzhi,Espionage,Exploitive,Undetermined,2021
+01/02/2021,Taiwan (Province of China),"High-profile victims in the defense, aviation, insurance, and urban development industries in Taiwan, China, Thailand, Malaysia, Indonesia, Pakistan, and Ukraine. ",Undetermined,China,Earth Longzhi,Espionage,Exploitive,Undetermined,2021
+01/02/2021,Thailand,"High-profile victims in the defense, aviation, insurance, and urban development industries in Taiwan, China, Thailand, Malaysia, Indonesia, Pakistan, and Ukraine. ",Undetermined,China,Earth Longzhi,Espionage,Exploitive,Undetermined,2021
+01/02/2021,Pakistan,"High-profile victims in the defense, aviation, insurance, and urban development industries in Taiwan, China, Thailand, Malaysia, Indonesia, Pakistan, and Ukraine. ",Undetermined,China,Earth Longzhi,Espionage,Exploitive,Undetermined,2021
+01/02/2021,Ukraine,"High-profile victims in the defense, aviation, insurance, and urban development industries in Taiwan, China, Thailand, Malaysia, Indonesia, Pakistan, and Ukraine. ",Undetermined,China,Earth Longzhi,Espionage,Exploitive,Undetermined,2021
 31/01/2021,Undetermined,Codecov,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Data in Transit,2021
 31/01/2021,United States of America,myNewJersey,Public Administration,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2021
 31/01/2021,United States of America,Victor Central School District,Educational Services,Undetermined,Undetermined,Undetermined,Disruptive,External Denial of Service,2021
@@ -3274,14 +3274,14 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 19/01/2021,United Kingdom of Great Britain and Northern Ireland,Amey PLC,Construction,Undetermined,Mount Locker,Financial,Mixed,"Data Attack,Exploitation of Application Server",2021
 19/01/2021,United States of America,Basic High School,Educational Services,Undetermined,Undetermined,Undetermined,Disruptive,Message Manipulation,2021
 19/01/2021,United States of America,Diamond Foods,Manufacturing,Undetermined,Undetermined,Undetermined,Exploitive,"Exploitation of End Hosts,Exploitation of Application Servers",2021
-18/01/2021,Germany,Netcom Kassel Gesellschaft fÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ'Ã¢â'¬Â 'ÃƒÆ'Ã†'Ãƒ''ÃƒÆ''Ãƒ'Ã'Â¼r Telekommunikation mbH,Information,Undetermined,Undetermined,Undetermined,Mixed,"Data Attack,Exploitation of Application Server",2021
+18/01/2021,Germany,Netcom Kassel Gesellschaft fÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ'ÃÂ¢Ã¢'Â¬ÃÂ 'ÃÆÃ'Ãâ 'ÃÆ''ÃÆÃ''ÃÆ'Ã'ÃÂ¼r Telekommunikation mbH,Information,Undetermined,Undetermined,Undetermined,Mixed,"Data Attack,Exploitation of Application Server",2021
 18/01/2021,United Kingdom of Great Britain and Northern Ireland,Capital Economics,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2021
 18/01/2021,United States of America,Capital Economics,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2021
 18/01/2021,United States of America,Okanogan County,Public Administration,Undetermined,Undetermined,Undetermined,Disruptive,"External Denial of Service,Data Attack",2021
 18/01/2021,United States of America,Midland University,Educational Services,Undetermined,Undetermined,Financial,Mixed,"Data Attack,Exploitation of Application Server",2021
 17/01/2021,United Kingdom of Great Britain and Northern Ireland,Wentworth Club,"Arts, Entertainment, and Recreation",Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2021
 17/01/2021,Belgium,CHwapi hospital,Educational Services,Undetermined,Undetermined,Undetermined,Disruptive,Data Attack,2021
-16/01/2021,Czechia,Hospital of Aftercare in HoraÃƒÆ'Ã†'Ãƒ''ÃƒÆ'Ã¢â'¬Â¦Ãƒ'Ã'Â¾?ovice,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
+16/01/2021,Czechia,Hospital of Aftercare in HoraÃÆÃ'Ãâ 'ÃÆ''ÃÆÃ'ÃÂ¢Ã¢'Â¬ÃÂ¦ÃÆ'Ã'ÃÂ¾?ovice,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2021
 16/01/2021,Undetermined,OpenWRT,Information,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2021
 16/01/2021,Canada,City of Montmagne,Public Administration,Undetermined,Undetermined,Financial,Disruptive,"External Denial of Service,Data Attack",2021
 16/01/2021,United States of America,Dotty's,"Arts, Entertainment, and Recreation",Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Servers,2021
@@ -3419,7 +3419,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 21/12/2020,United States of America,VMware,Information,Russian Federation,SVR (COZYBEAR),Political-Espionage,Exploitive,Exploitation of Application Server,2020
 21/12/2020,United Kingdom of Great Britain and Northern Ireland,Exmo,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2020
 21/12/2020,United States of America,City of Ellensburg,Public Administration,Undetermined,Undetermined,Financial,Disruptive,"External Denial of Service,Data Attack",2020
-21/12/2020,France,"Center Hospitalier Albertville-MoÃƒÆ'Ã†'Ãƒ'Ã†'""tiers (CHAM)",Health Care and Social Assistance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2020
+21/12/2020,France,"Center Hospitalier Albertville-MoÃÆÃ'Ãâ 'ÃÆ'Ãâ '""tiers (CHAM)",Health Care and Social Assistance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2020
 21/12/2020,Canada,DuBreton Meats,Wholesale Trade,Undetermined,Undetermined,Undetermined,Disruptive,"Data Attack,Internal Denial of Service",2020
 20/12/2020,Israel,Israel Aerospace Industries,Manufacturing,Undetermined,Pay2Key,Undetermined,Mixed,"Data Attack,Exploitation of Application Server",2020
 20/12/2020,United Kingdom of Great Britain and Northern Ireland,Rania Dridi,Other Services (except Public Administration),United Arab Emirates,United Arab Emirates,Political-Espionage,Exploitive,Exploitation of End Hosts,2020
@@ -3552,7 +3552,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 29/11/2020,United States of America,"Delaware County, PA",Public Administration,Russian Federation,INDRIK SPIDER,Financial,Disruptive,Data Attack,2020
 29/11/2020,United States of America,Overlake Obstetricians & Gynecologists,Health Care and Social Assistance,Undetermined,Pysa,Financial,Mixed,"Data Attack,Exploitation of Application Server",2020
 28/11/2020,United States of America,"Stuller, Inc.",Wholesale Trade,Undetermined,Undetermined,Undetermined,Disruptive,"External Denial of Service,Internal Denial of Service",2020
-27/11/2020,Brazil,TRF-1 (Tribunal Regional da Primeira RegiÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ''Ãƒ'Ã'Â£o),Public Administration,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2020
+27/11/2020,Brazil,TRF-1 (Tribunal Regional da Primeira RegiÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ''ÃÆ'Ã'ÃÂ£o),Public Administration,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2020
 27/11/2020,United Kingdom of Great Britain and Northern Ireland,Unnamed British insurace company,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2020
 27/11/2020,France,Banijay Group SAS,Information,Russian Federation,INDRIK SPIDER,Financial,Mixed,"Data Attack,Exploitation of Application Server",2020
 27/11/2020,Netherlands,Koninklijke Nederlandsche Wielren Unie (Royal Dutch Cycling Union),"Arts, Entertainment, and Recreation",Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2020
@@ -3700,7 +3700,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 29/10/2020,United States of America,Micron Technology Inc.,Manufacturing,Undetermined,United Microelectronics Corporation,Industrial-Espionage,Exploitive,Exploitation of Application Server,2020
 28/10/2020,United States of America,Proton Therapy Center,Health Care and Social Assistance,Undetermined,Undetermined,Undetermined,Disruptive,Internal Denial of Service,2020
 28/10/2020,United States of America,Chatham County,Public Administration,Undetermined,Undetermined,Undetermined,Disruptive,"Data Attack,Internal Denial of Service",2020
-28/10/2020,Undetermined,Undisclosed European government,Public Administration,Russian Federation,FSB 18th�Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2020
+28/10/2020,Undetermined,Undisclosed European government,Public Administration,Russian Federation,FSB 18th Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2020
 28/10/2020,Canada,University of British Columbia,Educational Services,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2020
 28/10/2020,Australia,My Health Record,Health Care and Social Assistance,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2020
 28/10/2020,United States of America,Department of Workforce Development in Wisconsin,Public Administration,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2020
@@ -3781,7 +3781,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 19/10/2020,United States of America,Yorktown School District,Educational Services,Undetermined,Undetermined,Undetermined,Disruptive,Data Attack,2020
 19/10/2020,Australia,Kleenheat,"Mining, Quarrying, and Oil and Gas Extraction",Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2020
 19/10/2020,United States of America,"Family Health Centers Of Georgia, Inc.?",Health Care and Social Assistance,Russian Federation,WIZARD SPIDER,Financial,Mixed,"Data Attack,Exploitation of Application Server",2020
-19/10/2020,Canada,SociÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ''Ãƒ'Ã'Â©tÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ''Ãƒ'Ã'Â© de transport de MontrÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ''Ãƒ'Ã'Â©al (STM),Transportation and Warehousing,Undetermined,RansomExx,Financial,Disruptive,"External Denial of Service,Data Attack",2020
+19/10/2020,Canada,SociÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ''ÃÆ'Ã'ÃÂ©tÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ''ÃÆ'Ã'ÃÂ© de transport de MontrÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ''ÃÆ'Ã'ÃÂ©al (STM),Transportation and Warehousing,Undetermined,RansomExx,Financial,Disruptive,"External Denial of Service,Data Attack",2020
 17/10/2020,United States of America,American Museum of Natural History,"Arts, Entertainment, and Recreation",Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2020
 17/10/2020,India,narendramodi.in,Other Services (except Public Administration),Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2020
 16/10/2020,Greece,Cosmote,Information,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2020
@@ -3804,7 +3804,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 14/10/2020,United Kingdom of Great Britain and Northern Ireland,Queen Mary University of London,Educational Services,Undetermined,Silent Librarian,Undetermined,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2020
 14/10/2020,United Kingdom of Great Britain and Northern Ireland,King's College London,Educational Services,Undetermined,Silent Librarian,Undetermined,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2020
 14/10/2020,Canada,Western University Canada,Educational Services,Undetermined,Silent Librarian,Undetermined,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2020
-14/10/2020,Sweden,GÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ''Ãƒ'Ã'Â¶teborg universitet,Educational Services,Undetermined,Silent Librarian,Undetermined,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2020
+14/10/2020,Sweden,GÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ''ÃÆ'Ã'ÃÂ¶teborg universitet,Educational Services,Undetermined,Silent Librarian,Undetermined,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2020
 14/10/2020,United Kingdom of Great Britain and Northern Ireland,University of Kent,Educational Services,Undetermined,Silent Librarian,Undetermined,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2020
 14/10/2020,United Kingdom of Great Britain and Northern Ireland,University of York,Educational Services,Undetermined,Silent Librarian,Undetermined,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2020
 14/10/2020,Sweden,Karolinska Medical Institutet,Educational Services,Undetermined,Silent Librarian,Undetermined,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2020
@@ -4042,7 +4042,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 10/09/2020,United States of America,California Employment Development Department,Public Administration,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2020
 10/09/2020,Slovakia,ETERBASE,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2020
 10/09/2020,Spain,SegurCaixa Adeslas,Finance and Insurance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2020
-10/09/2020,Germany,University Clinic in DÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ''Ãƒ'Ã'Â¼sseldorf,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2020
+10/09/2020,Germany,University Clinic in DÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ''ÃÆ'Ã'ÃÂ¼sseldorf,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2020
 10/09/2020,United States of America,SKDKnickerbocker,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Political-Espionage,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2020
 10/09/2020,United States of America,Somerset Hills School District,Educational Services,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2020
 10/09/2020,United States of America,The German Marshall Fund of the United States,Other Services (except Public Administration),Russian Federation,GRU 85th Main Special Service Center (Unit 26165) (FANCYBEAR),Political-Espionage,Exploitive,Exploitation of End Hosts,2020
@@ -4126,7 +4126,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 28/08/2020,United States of America,Selma Unified School District,Educational Services,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2020
 28/08/2020,United States of America,Sendgrid,Information,Undetermined,Undetermined,Financial,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2020
 28/08/2020,United States of America,Cisco WebEx,Information,United States of America,Sudhish Kasaba Ramesh,Undetermined,Disruptive,Data Attack,2020
-27/08/2020,Argentina,"Argentina's official immigration agency, DirecciÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ''Ãƒ'Ã'Â³n Nacional de Migraciones",Public Administration,Undetermined,NetWalker,Financial,Mixed,"Data Attack,Exploitation of Application Server",2020
+27/08/2020,Argentina,"Argentina's official immigration agency, DirecciÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ''ÃÆ'Ã'ÃÂ³n Nacional de Migraciones",Public Administration,Undetermined,NetWalker,Financial,Mixed,"Data Attack,Exploitation of Application Server",2020
 27/08/2020,Australia,Data#3,Information,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2020
 27/08/2020,United States of America,NCR Corporation,Finance and Insurance,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of End Hosts,2020
 27/08/2020,United States of America,Venmo,Finance and Insurance,Undetermined,Undetermined,Financial,Disruptive,External Denial of Service,2020
@@ -4190,7 +4190,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 18/08/2020,United States of America,Cleveland Museum of Natural History,"Arts, Entertainment, and Recreation",Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2020
 18/08/2020,United States of America,Cleveland Museum of Natural History,"Arts, Entertainment, and Recreation",Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2020
 18/08/2020,United States of America,Ponca City Public Schools,Educational Services,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2020
-18/08/2020,Turkey,Rezzan GÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ''Ãƒ'Ã'Â¼nday (?im?ek Pharmacy),Health Care and Social Assistance,Undetermined,Former Rezzan GÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ''Ãƒ'Ã'Â¼nday (?im?ek Pharmacy) employee,Undetermined,Exploitive,Exploitation of Application Server,2020
+18/08/2020,Turkey,Rezzan GÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ''ÃÆ'Ã'ÃÂ¼nday (?im?ek Pharmacy),Health Care and Social Assistance,Undetermined,Former Rezzan GÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ''ÃÆ'Ã'ÃÂ¼nday (?im?ek Pharmacy) employee,Undetermined,Exploitive,Exploitation of Application Server,2020
 17/08/2020,United Kingdom of Great Britain and Northern Ireland,East Anglia's Children's Hospices (EACH),Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2020
 17/08/2020,United Kingdom of Great Britain and Northern Ireland,East Anglia's Children's Hospices (EACH),Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2020
 17/08/2020,Australia,ACT schools,Educational Services,Undetermined,Undetermined,Undetermined,Disruptive,Message Manipulation,2020
@@ -4625,7 +4625,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 05/05/2020,Taiwan (Province of China),Formosa Petrochemical Corp.,"Mining, Quarrying, and Oil and Gas Extraction",Undetermined,Undetermined,Undetermined,Disruptive,Internal Denial of Service,2020
 05/05/2020,Germany,Mercedes-Benz Instagram account,Manufacturing,Undetermined,catz,Undetermined,Disruptive,Message Manipulation,2020
 04/05/2020,United States of America,"ProPath Services, LLC",Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2020
-04/05/2020,Taiwan (Province of China),CPC Corporation,"Mining, Quarrying, and Oil and Gas Extraction",China,PLA Unit�69010 (Wicked PANDA),Undetermined,Disruptive,"External Denial of Service,Data Attack",2020
+04/05/2020,Taiwan (Province of China),CPC Corporation,"Mining, Quarrying, and Oil and Gas Extraction",China,PLA Unit 69010 (Wicked PANDA),Undetermined,Disruptive,"External Denial of Service,Data Attack",2020
 04/05/2020,Indonesia,Bukalapak,Retail Trade,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2020
 03/05/2020,United States of America,Chronicle.com,Information,Undetermined,ShinyHunters,Financial,Exploitive,Exploitation of Application Server,2020
 03/05/2020,United States of America,ChatBooks,"Professional, Scientific, and Technical Services",Undetermined,ShinyHunters,Financial,Exploitive,Exploitation of Application Server,2020
@@ -4687,7 +4687,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 20/04/2020,United States of America,Brandywine Counseling and Community Services,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Mixed,"Data Attack,Exploitation of Application Server",2020
 20/04/2020,United Kingdom of Great Britain and Northern Ireland,Chartered Institute for Securities and Investments (CISI),Other Services (except Public Administration),Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Hosts,2020
 20/04/2020,United States of America,Believr,Other Services (except Public Administration),Undetermined,Undetermined,Undetermined,Disruptive,Message Manipulation,2020
-20/04/2020,Undetermined,Gravity,"Arts, Entertainment, and Recreation",China,PLA Unit�69010 (Wicked PANDA),Undetermined,Exploitive,Exploitation of Application Server,2020
+20/04/2020,Undetermined,Gravity,"Arts, Entertainment, and Recreation",China,PLA Unit 69010 (Wicked PANDA),Undetermined,Exploitive,Exploitation of Application Server,2020
 20/04/2020,United States of America,Genworth Financial,Finance and Insurance,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2020
 19/04/2020,Denmark,Danish Agro,"Agriculture, Forestry, Fishing and Hunting",Undetermined,Undetermined,Financial,Disruptive,Data Attack,2020
 19/04/2020,Italy,UniCredit,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2020
@@ -4734,7 +4734,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 08/04/2020,Undetermined,Bisq,Finance and Insurance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2020
 08/04/2020,Nepal,Vianet,Information,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2020
 07/04/2020,United States of America,EVERSANA,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2020
-07/04/2020,United States of America,San Francisco International Airport,Transportation and Warehousing,Russian Federation,FSB 18th�Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,Exploitation of Application Server,2020
+07/04/2020,United States of America,San Francisco International Airport,Transportation and Warehousing,Russian Federation,FSB 18th Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,Exploitation of Application Server,2020
 06/04/2020,United States of America,"Premier Kids Care, Inc.",Health Care and Social Assistance,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of End Hosts,2020
 05/04/2020,United States of America,Puget Sound Educational Service District,Educational Services,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2020
 05/04/2020,Canada,MNP,Finance and Insurance,Undetermined,Undetermined,Undetermined,Disruptive,Data Attack,2020
@@ -4802,10 +4802,10 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 13/03/2020,Czechia,Brno University Hospital,Health Care and Social Assistance,Undetermined,Undetermined,Undetermined,Disruptive,Data Attack,2020
 13/03/2020,United Kingdom of Great Britain and Northern Ireland,The National,Information,Undetermined,Undetermined,Undetermined,Disruptive,External Denial of Service,2020
 12/03/2020,United States of America,Open Exchange Rates,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2020
-12/03/2020,Armenia,The Armenian Deposit Guarantee Fund (adgf.am),Other Services (except Public Administration),Russian Federation,FSB 18th�Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,Exploitation of End Hosts,2020
-12/03/2020,Armenia,The Armenian Institute of International and Security Affairs (aiisa.am),Other Services (except Public Administration),Russian Federation,FSB 18th�Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,Exploitation of End Hosts,2020
-12/03/2020,Armenia,Ministry of Nature Protection and Natural Resources of the Republic of Artsakh (mnp.nkr.am),Public Administration,Russian Federation,FSB 18th�Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,Exploitation of End Hosts,2020
-12/03/2020,Armenia,The consular Section of the Embassy of Armenia in Russia (armconsul.ru),Public Administration,Russian Federation,FSB 18th�Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,Exploitation of End Hosts,2020
+12/03/2020,Armenia,The Armenian Deposit Guarantee Fund (adgf.am),Other Services (except Public Administration),Russian Federation,FSB 18th Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,Exploitation of End Hosts,2020
+12/03/2020,Armenia,The Armenian Institute of International and Security Affairs (aiisa.am),Other Services (except Public Administration),Russian Federation,FSB 18th Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,Exploitation of End Hosts,2020
+12/03/2020,Armenia,Ministry of Nature Protection and Natural Resources of the Republic of Artsakh (mnp.nkr.am),Public Administration,Russian Federation,FSB 18th Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,Exploitation of End Hosts,2020
+12/03/2020,Armenia,The consular Section of the Embassy of Armenia in Russia (armconsul.ru),Public Administration,Russian Federation,FSB 18th Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,Exploitation of End Hosts,2020
 11/03/2020,United States of America,Northeast Radiology,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2020
 11/03/2020,United States of America,Champaign-Urbana Public Health District,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Disruptive,"External Denial of Service,Data Attack",2020
 10/03/2020,United States of America,Wichita State University,Educational Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2020
@@ -4946,7 +4946,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 05/02/2020,United States of America,Educational Enrichment Systems,Educational Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2020
 05/02/2020,United States of America,Mississippi Center for Legal Services and North Mississippi Rural Legal Services,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Disruptive,Data Attack,2020
 05/02/2020,Italy,Altsbit,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2020
-05/02/2020,Ukraine,Hetman Petro Sahaidachnyi National Ground Forces Academy,Public Administration,Russian Federation,FSB 18th�Center for Information Security (Berserk Bear),Sabotage,Mixed,Exploitation of End Hosts,2020
+05/02/2020,Ukraine,Hetman Petro Sahaidachnyi National Ground Forces Academy,Public Administration,Russian Federation,FSB 18th Center for Information Security (Berserk Bear),Sabotage,Mixed,Exploitation of End Hosts,2020
 04/02/2020,United States of America,Eastern Virginia Medical School,Educational Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2020
 04/02/2020,United States of America,St. Louis Community College,Educational Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2020
 04/02/2020,United States of America,Golden Entertainment,"Arts, Entertainment, and Recreation",Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2020
@@ -4965,7 +4965,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 31/01/2020,United States of America,US Department of Defense (DOD),Public Administration,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2020
 31/01/2020,United States of America,City of Racine,Public Administration,Undetermined,Undetermined,Financial,Disruptive,"External Denial of Service,Data Attack",2020
 31/01/2020,United States of America,TVEyes,Information,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2020
-31/01/2020,China,Hong Kong Universities,Educational Services,China,PLA Unit�69010 (Wicked PANDA),Political-Espionage,Exploitive,Exploitation of End Hosts,2020
+31/01/2020,China,Hong Kong Universities,Educational Services,China,PLA Unit 69010 (Wicked PANDA),Political-Espionage,Exploitive,Exploitation of End Hosts,2020
 31/01/2020,France,Bouygues Construction,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Disruptive,Data Attack,2020
 30/01/2020,United States of America,Mountain View Los Altos High School (MVLA),Educational Services,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2020
 30/01/2020,United States of America,Grundy County Courthouse,Public Administration,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2020
@@ -5033,7 +5033,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 22/01/2020,United States of America,Bobby Berk,Other Services (except Public Administration),Saudi Arabia,OurMine,Undetermined,Disruptive,Message Manipulation,2020
 22/01/2020,United States of America,Eduardo Saverin,Other Services (except Public Administration),Saudi Arabia,OurMine,Undetermined,Disruptive,Message Manipulation,2020
 22/01/2020,United States of America,Matt Raub,Other Services (except Public Administration),Saudi Arabia,OurMine,Undetermined,Disruptive,Message Manipulation,2020
-22/01/2020,United States of America,Enrique HernÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ''Ãƒ'Ã'Â¡ndez,Other Services (except Public Administration),Saudi Arabia,OurMine,Undetermined,Disruptive,Message Manipulation,2020
+22/01/2020,United States of America,Enrique HernÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ''ÃÆ'Ã'ÃÂ¡ndez,Other Services (except Public Administration),Saudi Arabia,OurMine,Undetermined,Disruptive,Message Manipulation,2020
 22/01/2020,United States of America,Greenville Water,Administrative and Support and Waste Management and Remediation Services,Undetermined,Undetermined,Undetermined,Disruptive,External Denial of Service,2020
 22/01/2020,United States of America,Tillamook County,Public Administration,Undetermined,Undetermined,Financial,Disruptive,"External Denial of Service,Data Attack",2020
 21/01/2020,United States of America,Crossroads Technologies,"Professional, Scientific, and Technical Services",Undetermined,MAZE,Financial,Mixed,"Data Attack,Exploitation of Application Server",2020
@@ -5061,7 +5061,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 17/01/2020,Greece,Greek Parliament,Public Administration,Turkey,Phoenix's Helmets (Anka Neferler Tim),Protest,Disruptive,External Denial of Service,2020
 16/01/2020,United States of America,City of Detroit,Public Administration,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2020
 16/01/2020,United States of America,Georgia election server (Center for Election Systems at Kennesaw State University),Public Administration,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2020
-16/01/2020,Czechia,Rudolf and Stephanie Hospital in BeneÃƒÆ'Ã†'Ãƒ''ÃƒÆ'Ã¢â'¬Â¦Ãƒ'Ã'Â¡ov,Health Care and Social Assistance,Russian Federation,WIZARD SPIDER,Financial,Disruptive,"External Denial of Service,Data Attack",2020
+16/01/2020,Czechia,Rudolf and Stephanie Hospital in BeneÃÆÃ'Ãâ 'ÃÆ''ÃÆÃ'ÃÂ¢Ã¢'Â¬ÃÂ¦ÃÆ'Ã'ÃÂ¡ov,Health Care and Social Assistance,Russian Federation,WIZARD SPIDER,Financial,Disruptive,"External Denial of Service,Data Attack",2020
 15/01/2020,United States of America,Town of Colonie,Public Administration,Undetermined,Undetermined,Financial,Disruptive,External Denial of Service,2020
 15/01/2020,Canada,PlanetDrugsDirect,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2020
 15/01/2020,Australia,P&N Bank,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2020
@@ -5101,7 +5101,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 04/01/2020,Canada,Saskatchewan's eHealth,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2020
 04/01/2020,Sierra Leone,Sierra Leone Commercial Bank (slcb.com),Finance and Insurance,Sierra Leone,Shield Iran,Protest,Disruptive,Message Manipulation,2020
 04/01/2020,United States of America,U.S. Federal Depository Library Program,Public Administration,Undetermined,Iran Cyber Security Group Hackers,Protest,Disruptive,Message Manipulation,2020
-04/01/2020,Austria,Austrian Foreign Ministry,Public Administration,Russian Federation,FSB 18th�Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,Exploitation of Application Server,2020
+04/01/2020,Austria,Austrian Foreign Ministry,Public Administration,Russian Federation,FSB 18th Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,Exploitation of Application Server,2020
 03/01/2020,United States of America,Native American Rehabilitation Association,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2020
 03/01/2020,United States of America,Contra Costa County Library System,Public Administration,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2020
 03/01/2020,United States of America,Alomere Health,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Hosts,2020
@@ -5140,7 +5140,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 19/12/2019,Italy,Iren,Utilities,Undetermined,Undetermined,Financial,Disruptive,"External Denial of Service,Data Attack",2019
 19/12/2019,United States of America,Ring,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2019
 19/12/2019,Germany,City of Frankfurt,Public Administration,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2019
-19/12/2019,United States of America,Champagne French Bakery CafÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ''Ãƒ'Ã'Â©,Accommodation and Food Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Sensors,2019
+19/12/2019,United States of America,Champagne French Bakery CafÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ''ÃÆ'Ã'ÃÂ©,Accommodation and Food Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Sensors,2019
 19/12/2019,United States of America,Islands restaurants,Accommodation and Food Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Sensors,2019
 19/12/2019,United States of America,Wawa,Retail Trade,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Sensors,2019
 19/12/2019,Latvia,baltictimes.com,Information,Belarus,Ghostwriter,Sabotage,Disruptive,Message Manipulation,2019
@@ -5208,8 +5208,8 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 02/12/2019,Spain,TECNOL,Manufacturing,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
 01/12/2019,United States of America,Shakespeare Theatre of New Jersey,"Arts, Entertainment, and Recreation",Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
 30/11/2019,United Kingdom of Great Britain and Northern Ireland,A major player in Britain's nuclear power industry,Utilities,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of End Hosts,2019
-29/11/2019,Ukraine,Dnipro Control System,Public Administration,Russian Federation,FSB 18th�Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,Exploitation of End Hosts,2019
-29/11/2019,Ukraine,Ministry of Foreign Affairs of Ukraine,Public Administration,Russian Federation,FSB 18th�Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,Exploitation of End Hosts,2019
+29/11/2019,Ukraine,Dnipro Control System,Public Administration,Russian Federation,FSB 18th Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,Exploitation of End Hosts,2019
+29/11/2019,Ukraine,Ministry of Foreign Affairs of Ukraine,Public Administration,Russian Federation,FSB 18th Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,Exploitation of End Hosts,2019
 29/11/2019,China,LIHKG,Other Services (except Public Administration),Undetermined,Undetermined,Sabotage,Disruptive,External Denial of Service,2019
 29/11/2019,United Kingdom of Great Britain and Northern Ireland,Mixcloud,"Arts, Entertainment, and Recreation",Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2019
 29/11/2019,Spain,Prosegur,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
@@ -5224,7 +5224,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 26/11/2019,United States of America,DiBella's Old Fashioned Submarine,Accommodation and Food Services,Russian Federation,FIN7,Financial,Exploitive,Exploitation of Sensors,2019
 26/11/2019,United States of America,On the Border,Accommodation and Food Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Sensors,2019
 25/11/2019,United States of America,Great Plains Health,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
-25/11/2019,Ukraine,Ukrainian Ministry of Foreign Affairs,Public Administration,Russian Federation,FSB 18th�Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,Exploitation of End Hosts,2019
+25/11/2019,Ukraine,Ukrainian Ministry of Foreign Affairs,Public Administration,Russian Federation,FSB 18th Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,Exploitation of End Hosts,2019
 24/11/2019,Canada,Waterloo Catholic District School Board,Educational Services,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
 24/11/2019,United States of America,New York City Police Department,Public Administration,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
 23/11/2019,United States of America,Catch Hospitality Group,Accommodation and Food Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Sensors,2019
@@ -5291,7 +5291,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 04/11/2019,United States of America,InterMed,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Hosts,2019
 04/11/2019,United States of America,Lincoln County School District,Educational Services,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
 04/11/2019,India,Tejasswi Prakash,Other Services (except Public Administration),Undetermined,Undetermined,Undetermined,Disruptive,Message Manipulation,2019
-04/11/2019,Spain,Sociedad EspaÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ''Ãƒ'Ã'Â±ola de RadiodifusiÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ''Ãƒ'Ã'Â³n (Cadena SER),"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
+04/11/2019,Spain,Sociedad EspaÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ''ÃÆ'Ã'ÃÂ±ola de RadiodifusiÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ''ÃÆ'Ã'ÃÂ³n (Cadena SER),"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
 04/11/2019,Spain,Everis,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
 02/11/2019,Canada,Government of Nunavut,Public Administration,Undetermined,Undetermined,Financial,Disruptive,"External Denial of Service,Data Attack",2019
 01/11/2019,United States of America,U.S. Virgin Islands Water and Power Authority (WAPA),Public Administration,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2019
@@ -5324,7 +5324,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 28/10/2019,Georgia,Proservice,Information,Russian Federation,GRU Main Special Center for Special Technologies (Unit 74455) (SANDWORM),Undetermined,Disruptive,Message Manipulation,2019
 27/10/2019,United States of America,National Veterinary Associates (NVA),"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Disruptive,"External Denial of Service,Data Attack",2019
 27/10/2019,Turkey,Garanti BBVA,Finance and Insurance,Undetermined,Undetermined,Undetermined,Disruptive,External Denial of Service,2019
-27/10/2019,Turkey,TÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ''Ãƒ'Ã'Â¼rk Telekom,Information,Undetermined,Undetermined,Undetermined,Disruptive,External Denial of Service,2019
+27/10/2019,Turkey,TÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ''ÃÆ'Ã'ÃÂ¼rk Telekom,Information,Undetermined,Undetermined,Undetermined,Disruptive,External Denial of Service,2019
 25/10/2019,United States of America,Digital Insights,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Hosts,2019
 25/10/2019,United States of America,Betty Jean Kerr People's Health Centers,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
 25/10/2019,United States of America,Procter & Gamble's First Aid Beauty,Retail Trade,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Hosts,2019
@@ -5355,7 +5355,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 14/10/2019,United Kingdom of Great Britain and Northern Ireland,Jack Monroe,Other Services (except Public Administration),Undetermined,Undetermined,Financial,Exploitive,"Exploitation of End Hosts,Exploitation of Data in Transit",2019
 14/10/2019,Italy,Eurobet,"Arts, Entertainment, and Recreation",Undetermined,Undetermined,Financial,Disruptive,External Denial of Service,2019
 14/10/2019,India,India,Public Administration,Pakistan,Pakistan,Sabotage,Disruptive,Message Manipulation,2019
-14/10/2019,Undetermined,High-profile Asian mobile hardware and software manufacturer,Manufacturing,China,PLA Unit�69010 (Wicked PANDA),Undetermined,Exploitive,Exploitation of Application Server,2019
+14/10/2019,Undetermined,High-profile Asian mobile hardware and software manufacturer,Manufacturing,China,PLA Unit 69010 (Wicked PANDA),Undetermined,Exploitive,Exploitation of Application Server,2019
 14/10/2019,United States of America,Pitney Bowes,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Disruptive,"External Denial of Service,Data Attack",2019
 13/10/2019,United States of America,Sunapee New Hampshire School District,Educational Services,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
 13/10/2019,Germany,Pilz,Manufacturing,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
@@ -5452,7 +5452,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 20/09/2019,United States of America,Campbell County Health,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
 17/09/2019,United States of America,Magellan Health,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2019
 17/09/2019,United States of America,Kent State University,Educational Services,Undetermined,Undetermined,Undetermined,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2019
-16/09/2019,United States of America,Yanet GarcÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ''Ãƒ'Ã'Â­a Instagram account,Other Services (except Public Administration),Undetermined,Undetermined,Financial,Disruptive,Message Manipulation,2019
+16/09/2019,United States of America,Yanet GarcÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ''ÃÆ'Ã'ÃÂ­a Instagram account,Other Services (except Public Administration),Undetermined,Undetermined,Financial,Disruptive,Message Manipulation,2019
 16/09/2019,United States of America,Nicole Scherzinger Instagram account,Other Services (except Public Administration),Undetermined,Undetermined,Financial,Disruptive,Message Manipulation,2019
 16/09/2019,New Zealand,Lumin PDF,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2019
 15/09/2019,United States of America,Wallenpaupack Area School District,Educational Services,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
@@ -5588,7 +5588,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 02/08/2019,United States of America,SuperINN,Real Estate and Rental and Leasing,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2019
 02/08/2019,United States of America,"City of Naples, Florida",Public Administration,Undetermined,Undetermined,Financial,Disruptive,Message Manipulation,2019
 01/08/2019,United States of America,Broken Arrow Public Schools,Educational Services,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
-01/08/2019,Mexico,LibrerÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ''Ãƒ'Ã'Â­a PorrÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ''Ãƒ'Ã'Âºa,Retail Trade,Undetermined,Undetermined,Financial,Mixed,"Data Attack,Exploitation of Application Server",2019
+01/08/2019,Mexico,LibrerÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ''ÃÆ'Ã'ÃÂ­a PorrÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ''ÃÆ'Ã'ÃÂºa,Retail Trade,Undetermined,Undetermined,Financial,Mixed,"Data Attack,Exploitation of Application Server",2019
 01/08/2019,United States of America,Poshmark,Retail Trade,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2019
 01/08/2019,United States of America,StockX,Retail Trade,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2019
 31/07/2019,United States of America,Gadsden Independent School District,Educational Services,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
@@ -5604,7 +5604,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 27/07/2019,Switzerland,ProtonMail,Information,Undetermined,Undetermined,Political-Espionage,Exploitive,Exploitation of End Hosts,2019
 27/07/2019,United States of America,Comodo,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2019
 26/07/2019,United States of America,Puerto Rico Women And Children's Hospital,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
-26/07/2019,United States of America,BayamÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ''Ãƒ'Ã'Â³n Medical Center,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
+26/07/2019,United States of America,BayamÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ''ÃÆ'Ã'ÃÂ³n Medical Center,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
 26/07/2019,United States of America,Blastech Mobile,Manufacturing,Undetermined,Undetermined,Financial,Disruptive,"External Denial of Service,Data Attack,Internal Denial of Service",2019
 26/07/2019,United States of America,DNForum.com,Information,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of End Hosts,2019
 26/07/2019,United States of America,Lincoln County Sheriff's Office,Public Administration,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
@@ -5627,17 +5627,17 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 24/07/2019,United States of America,Ouachita  Parish School District,Educational Services,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
 24/07/2019,United States of America,Sabine Parish School District,Educational Services,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
 24/07/2019,United States of America,Morehouse Parish School District,Educational Services,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
-24/07/2019,Germany,TeamViewer GmbH,Information,China,PLA Unit�69010 (Wicked PANDA),Industrial-Espionage,Exploitive,Exploitation of Application Server,2019
-24/07/2019,United States of America,Valve,Information,China,PLA Unit�69010 (Wicked PANDA),Undetermined,Exploitive,Exploitation of Application Server,2019
-24/07/2019,Germany,Covestro,Undetermined,China,PLA Unit�69010 (Wicked PANDA),Industrial-Espionage,Exploitive,Exploitation of Application Server,2019
-24/07/2019,Japan,Shin-Etsu,Undetermined,China,PLA Unit�69010 (Wicked PANDA),Industrial-Espionage,Exploitive,Exploitation of Application Server,2019
-24/07/2019,Japan,Sumitomo,Wholesale Trade,China,PLA Unit�69010 (Wicked PANDA),Industrial-Espionage,Exploitive,Exploitation of Application Server,2019
-24/07/2019,Indonesia,Lion Air,Transportation and Warehousing,China,PLA Unit�69010 (Wicked PANDA),Undetermined,Exploitive,Exploitation of Application Server,2019
-24/07/2019,United States of America,Marriott,Accommodation and Food Services,China,PLA Unit�69010 (Wicked PANDA),Undetermined,Exploitive,Exploitation of Application Server,2019
-24/07/2019,Switzerland,Roche,Undetermined,China,PLA Unit�69010 (Wicked PANDA),Industrial-Espionage,Exploitive,Exploitation of Application Server,2019
-24/07/2019,Germany,Henkel,Undetermined,China,PLA Unit�69010 (Wicked PANDA),Industrial-Espionage,Exploitive,Exploitation of Application Server,2019
-24/07/2019,Germany,Siemens,Manufacturing,China,PLA Unit�69010 (Wicked PANDA),Industrial-Espionage,Exploitive,Exploitation of Application Server,2019
-24/07/2019,Germany,BASF,"Professional, Scientific, and Technical Services",China,PLA Unit�69010 (Wicked PANDA),Industrial-Espionage,Exploitive,Exploitation of Application Server,2019
+24/07/2019,Germany,TeamViewer GmbH,Information,China,PLA Unit 69010 (Wicked PANDA),Industrial-Espionage,Exploitive,Exploitation of Application Server,2019
+24/07/2019,United States of America,Valve,Information,China,PLA Unit 69010 (Wicked PANDA),Undetermined,Exploitive,Exploitation of Application Server,2019
+24/07/2019,Germany,Covestro,Undetermined,China,PLA Unit 69010 (Wicked PANDA),Industrial-Espionage,Exploitive,Exploitation of Application Server,2019
+24/07/2019,Japan,Shin-Etsu,Undetermined,China,PLA Unit 69010 (Wicked PANDA),Industrial-Espionage,Exploitive,Exploitation of Application Server,2019
+24/07/2019,Japan,Sumitomo,Wholesale Trade,China,PLA Unit 69010 (Wicked PANDA),Industrial-Espionage,Exploitive,Exploitation of Application Server,2019
+24/07/2019,Indonesia,Lion Air,Transportation and Warehousing,China,PLA Unit 69010 (Wicked PANDA),Undetermined,Exploitive,Exploitation of Application Server,2019
+24/07/2019,United States of America,Marriott,Accommodation and Food Services,China,PLA Unit 69010 (Wicked PANDA),Undetermined,Exploitive,Exploitation of Application Server,2019
+24/07/2019,Switzerland,Roche,Undetermined,China,PLA Unit 69010 (Wicked PANDA),Industrial-Espionage,Exploitive,Exploitation of Application Server,2019
+24/07/2019,Germany,Henkel,Undetermined,China,PLA Unit 69010 (Wicked PANDA),Industrial-Espionage,Exploitive,Exploitation of Application Server,2019
+24/07/2019,Germany,Siemens,Manufacturing,China,PLA Unit 69010 (Wicked PANDA),Industrial-Espionage,Exploitive,Exploitation of Application Server,2019
+24/07/2019,Germany,BASF,"Professional, Scientific, and Technical Services",China,PLA Unit 69010 (Wicked PANDA),Industrial-Espionage,Exploitive,Exploitation of Application Server,2019
 23/07/2019,United States of America,Dr. Carl Bilancione Dentist,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
  ,United States of America,University of Hawaii,Educational Services,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,#VALUE!
 23/07/2019,United States of America,Tennessee Higher Education Commission,Educational Services,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2019
@@ -5848,7 +5848,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 01/05/2019,United States of America,Augustana College,Educational Services,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
 01/05/2019,India,Telangana State Southern Power Distribution Company Ltd (TSSPDCL),Utilities,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
 30/04/2019,United States of America,"Charles River Laboratories International, Inc.","Professional, Scientific, and Technical Services",Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2019
-30/04/2019,Canada,Michael BublÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ''Ãƒ'Ã'Â©'s Instagram Account,Other Services (except Public Administration),Undetermined,Undetermined,Undetermined,Disruptive,Message Manipulation,2019
+30/04/2019,Canada,Michael BublÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ''ÃÆ'Ã'ÃÂ©'s Instagram Account,Other Services (except Public Administration),Undetermined,Undetermined,Undetermined,Disruptive,Message Manipulation,2019
 30/04/2019,United States of America,Grid operations in parts of the western United States,Utilities,Undetermined,Undetermined,Undetermined,Disruptive,External Denial of Service,2019
 30/04/2019,Germany,Citycomp GMBH,Information,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2019
 29/04/2019,United States of America,SkyMed,Health Care and Social Assistance,Undetermined,Undetermined,Undetermined,Mixed,"Data Attack,Exploitation of Application Server",2019
@@ -5881,7 +5881,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 24/04/2019,United States of America,Delta Dental of Illinois,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Hosts,2019
 24/04/2019,United States of America,Doctors' Management Services (DMS),"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
 24/04/2019,United States of America,Scott County Schools,Educational Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Hosts,2019
-24/04/2019,Ukraine,Ukraine Ministry Of Defense,Public Administration,Russian Federation,FSB 18th�Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2019
+24/04/2019,Ukraine,Ukraine Ministry Of Defense,Public Administration,Russian Federation,FSB 18th Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2019
 24/04/2019,Italy,archivi-sias.it (National Archives from the Italian Ministry of Cultural Heritage and Activities),Public Administration,Italy,LulzSecITA,Undetermined,Exploitive,Exploitation of Application Server,2019
 23/04/2019,Australia,Lime,Manufacturing,Undetermined,Undetermined,Undetermined,Disruptive,Message Manipulation,2019
 23/04/2019,United States of America,A2 Hosting,Information,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
@@ -5938,7 +5938,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 05/04/2019,United States of America,AeroGrow International,Manufacturing,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Hosts,2019
 04/04/2019,Philippines,Training School of the First Scout Ranger Regiment,Public Administration,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2019
 04/04/2019,United States of America,Sylvan Union School District,Educational Services,Undetermined,Undetermined,Undetermined,Disruptive,Data Attack,2019
-04/04/2019,Germany,Bayer,"Professional, Scientific, and Technical Services",China,PLA Unit�69010 (Wicked PANDA),Industrial-Espionage,Exploitive,Exploitation of Application Server,2019
+04/04/2019,Germany,Bayer,"Professional, Scientific, and Technical Services",China,PLA Unit 69010 (Wicked PANDA),Industrial-Espionage,Exploitive,Exploitation of Application Server,2019
 03/04/2019,United States of America,City of Tallahassee,Public Administration,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2019
 02/04/2019,United States of America,Genesee County,Public Administration,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
 02/04/2019,United States of America,Arizona Beverages,Accommodation and Food Services,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2019
@@ -6237,7 +6237,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 18/12/2018,United States of America,NASA,Public Administration,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2018
 18/12/2018,United States of America,Barnes-Jewish Company HealthCare,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,"Exploitation of Application Server,Exploitation of Data in Transit",2018
 18/12/2018,United States of America,Click2Gov,Administrative and Support and Waste Management and Remediation Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2018
-17/12/2018,United States of America,"University of Vermont Health Network ÃƒÆ'Ã†'Ãƒ''ÃƒÆ'Ã'Â¢Ãƒ'Ã¢'Â¬"" Elizabethtown Community Hospital",Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2018
+17/12/2018,United States of America,"University of Vermont Health Network ÃÆÃ'Ãâ 'ÃÆ''ÃÆÃ'Ã'ÃÂ¢ÃÆ'ÃÂ¢'ÃÂ¬"" Elizabethtown Community Hospital",Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2018
 17/12/2018,United States of America,The Wall Street Journal's website,Information,Undetermined,Undetermined,Undetermined,Disruptive,Message Manipulation,2018
 16/12/2018,United States of America,CCRM Dallas-Fort Worth,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2018
 14/12/2018,United States of America,Contractors working for the US Navy,Public Administration,Undetermined,Undetermined,Industrial-Espionage,Exploitive,Exploitation of Application Server,2018
@@ -6265,12 +6265,12 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 04/12/2018,United States of America,Prime Staff Inc.,"Professional, Scientific, and Technical Services",United Kingdom of Great Britain and Northern Ireland,The Dark Overlord,Financial,Exploitive,Exploitation of Application Server,2018
 04/12/2018,Ukraine,Ukraine Telecommunications Network,Information,Undetermined,Undetermined,Sabotage,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2018
 04/12/2018,Barbados,Caribbean Island Properties,Real Estate and Rental and Leasing,United Kingdom of Great Britain and Northern Ireland,The Dark Overlord,Financial,Mixed,"Data Attack,Exploitation of Application Server",2018
-03/12/2018,Czechia,Army of the Czech Republic,Public Administration,Russian Federation,FSB 18th�Center for Information Security (Berserk Bear); GRU Unit 26165 (FANCY BEAR),Political-Espionage,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2018
-03/12/2018,Czechia,Czech Ministry of Defense,Public Administration,Russian Federation,FSB 18th�Center for Information Security (Berserk Bear); GRU Unit 26165 (FANCY BEAR),Political-Espionage,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2018
+03/12/2018,Czechia,Army of the Czech Republic,Public Administration,Russian Federation,FSB 18th Center for Information Security (Berserk Bear); GRU Unit 26165 (FANCY BEAR),Political-Espionage,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2018
+03/12/2018,Czechia,Czech Ministry of Defense,Public Administration,Russian Federation,FSB 18th Center for Information Security (Berserk Bear); GRU Unit 26165 (FANCY BEAR),Political-Espionage,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2018
 03/12/2018,United States of America,Cancer Treatment Centers of America,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2018
 03/12/2018,United States of America,Quora,Information,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2018
 03/12/2018,Netherlands,OppoSuits,Retail Trade,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Hosts,2018
-03/12/2018,Czechia,Czech Ministry of Foreign Affairs,Public Administration,Russian Federation,FSB 18th�Center for Information Security (Berserk Bear); GRU Unit 26165 (FANCY BEAR),Political-Espionage,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2018
+03/12/2018,Czechia,Czech Ministry of Foreign Affairs,Public Administration,Russian Federation,FSB 18th Center for Information Security (Berserk Bear); GRU Unit 26165 (FANCY BEAR),Political-Espionage,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2018
 01/12/2018,United States of America,Window to the World Communications,Information,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2018
 01/12/2018,China,Chinese citizens,Other Services (except Public Administration),Undetermined,Undetermined,Financial,Mixed,"Data Attack,Exploitation of Application Server",2018
 01/12/2018,Italy,Palermo Calcio,Other Services (except Public Administration),Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2018
@@ -6295,7 +6295,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 23/11/2018,United States of America,East Ohio Regional Hospital,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2018
 23/11/2018,Germany,Knuddles.de,Information,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2018
 21/11/2018,United States of America,High Tail Hall,"Arts, Entertainment, and Recreation",Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2018
-20/11/2018,Ukraine,Ukrainian government agencies,Public Administration,Russian Federation,FSB 18th�Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,Exploitation of End Hosts,2018
+20/11/2018,Ukraine,Ukrainian government agencies,Public Administration,Russian Federation,FSB 18th Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,Exploitation of End Hosts,2018
 20/11/2018,United States of America,Johannesburg-Lewiston Area Schools (JLAS),Educational Services,Undetermined,Undetermined,Financial,Disruptive,Data Attack,2018
 19/11/2018,United States of America,East Tennessee State University,Educational Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2018
 19/11/2018,United States of America,worldwish.org,Public Administration,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Hosts,2018
@@ -6506,7 +6506,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 16/08/2018,Kenya,Kenya Ports Authority,Public Administration,Undetermined,Undetermined,Industrial-Espionage,Exploitive,Exploitation of Application Server,2018
 16/08/2018,Mongolia,Mongolian University of Science and Technology,Public Administration,Undetermined,Undetermined,Industrial-Espionage,Exploitive,Exploitation of Application Server,2018
 16/08/2018,Mongolia,Mongolian National Data Center Building,Public Administration,Undetermined,Undetermined,Industrial-Espionage,Exploitive,Exploitation of Application Server,2018
-16/08/2018,Brazil,Public Ministry of the State of AmapÃƒÆ'Ã†'Ãƒ'Ã†'ÃƒÆ''Ãƒ'Ã'Â¡,Public Administration,Undetermined,Undetermined,Industrial-Espionage,Exploitive,Exploitation of Application Server,2018
+16/08/2018,Brazil,Public Ministry of the State of AmapÃÆÃ'Ãâ 'ÃÆ'Ãâ 'ÃÆÃ''ÃÆ'Ã'ÃÂ¡,Public Administration,Undetermined,Undetermined,Industrial-Espionage,Exploitive,Exploitation of Application Server,2018
 15/08/2018,United States of America,Michael Terpin,Other Services (except Public Administration),Undetermined,Undetermined,Financial,Exploitive,"Exploitation of End Hosts,Exploitation of Data in Transit",2018
 15/08/2018,United States of America,Hans Keirstead,Other Services (except Public Administration),Undetermined,Undetermined,Political-Espionage,Exploitive,Exploitation of Application Server,2018
 11/08/2018,India,Cosmos Bank,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2018
@@ -6554,7 +6554,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 24/07/2018,United States of America,Southern Baptist Convention's International Mission Board,Public Administration,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2018
 24/07/2018,United States of America,Verified @AlmostHumanFOX Twitter Account,"Arts, Entertainment, and Recreation",Undetermined,Undetermined,Financial,Mixed,"Message Manipulation,Exploitation of End Hosts",2018
 23/07/2018,United States of America,"Accreditation, Audit & Risk Management Security, LLC","Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2018
-23/07/2018,United States of America,U.S. Utility Control Rooms,Utilities,Russian Federation,FSB 18th�Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,Exploitation of Application Server,2018
+23/07/2018,United States of America,U.S. Utility Control Rooms,Utilities,Russian Federation,FSB 18th Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,Exploitation of Application Server,2018
 23/07/2018,Undetermined,Etherscan.io,Finance and Insurance,Undetermined,Undetermined,Undetermined,Disruptive,Message Manipulation,2018
 20/07/2018,United States of America,Three U.S. congressional candidates,Other Services (except Public Administration),Undetermined,Undetermined,Political-Espionage,Exploitive,Exploitation of End Hosts,2018
 20/07/2018,Singapore,SingHealth,Health Care and Social Assistance,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2018
@@ -7153,7 +7153,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 16/10/2017,Undetermined,Bithumb,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2017
 15/10/2017,United States of America,Pizza Hut,Accommodation and Food Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Hosts,2017
 13/10/2017,United States of America,Politifact,Information,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Hosts,2017
-12/10/2017,Sweden,Public Transport Operator VÃƒÆ'Ã†'Ãƒ'Ã'Â¤sttrafik,Public Administration,Undetermined,Undetermined,Undetermined,Disruptive,External Denial of Service,2017
+12/10/2017,Sweden,Public Transport Operator VÃÆÃ'Ãâ 'ÃÆ'Ã'ÃÂ¤sttrafik,Public Administration,Undetermined,Undetermined,Undetermined,Disruptive,External Denial of Service,2017
 12/10/2017,Sweden,Sweden Transport Agency (Transportstyrelsen),Public Administration,Undetermined,Undetermined,Undetermined,Disruptive,External Denial of Service,2017
 12/10/2017,United States of America,Hyatt Hotels Corp.,Accommodation and Food Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Sensors,2017
 12/10/2017,United States of America,Equifax,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Hosts,2017
@@ -7204,7 +7204,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 18/09/2017,United States of America,Augusta Medical Center,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2017
 17/09/2017,Singapore,Unidentified public organisation in Singapore,Public Administration,Undetermined,Undetermined,Political-Espionage,Exploitive,Exploitation of End Hosts,2017
 17/09/2017,United Arab Emirates,UAE government,Public Administration,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2017
-15/09/2017,Switzerland,"Swiss Federal Department of Defense, Civil Protection and Sports",Public Administration,Russian Federation,FSB 18th�Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,Exploitation of Application Server,2017
+15/09/2017,Switzerland,"Swiss Federal Department of Defense, Civil Protection and Sports",Public Administration,Russian Federation,FSB 18th Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,Exploitation of Application Server,2017
 15/09/2017,United States of America,Morehead Memorial Hospital,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2017
 15/09/2017,United States of America,Vevo,"Professional, Scientific, and Technical Services",Saudi Arabia,OurMine,Undetermined,Exploitive,Exploitation of Application Server,2017
 12/09/2017,Netherlands,Litebit,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2017
@@ -7493,7 +7493,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 12/05/2017,Italy,University of Milano-Bicocca,Educational Services,Korea (the Democratic People's Republic of),NGB 3rd Technical Surveillance Bureau,Financial,Disruptive,Data Attack,2017
 12/05/2017,Indonesia,Universitas Jember,Educational Services,Korea (the Democratic People's Republic of),NGB 3rd Technical Surveillance Bureau,Financial,Disruptive,Data Attack,2017
 12/05/2017,Taiwan (Province of China),TSMC,Manufacturing,Korea (the Democratic People's Republic of),NGB 3rd Technical Surveillance Bureau,Financial,Disruptive,Data Attack,2017
-12/05/2017,Sweden,TimrÃƒÆ'Ã†'Ãƒ'Ã'Â¥ Municipality,Public Administration,Korea (the Democratic People's Republic of),NGB 3rd Technical Surveillance Bureau,Financial,Disruptive,Data Attack,2017
+12/05/2017,Sweden,TimrÃÆÃ'Ãâ 'ÃÆ'Ã'ÃÂ¥ Municipality,Public Administration,Korea (the Democratic People's Republic of),NGB 3rd Technical Surveillance Bureau,Financial,Disruptive,Data Attack,2017
 12/05/2017,South Africa,Telkom,Information,Korea (the Democratic People's Republic of),NGB 3rd Technical Surveillance Bureau,Financial,Disruptive,Data Attack,2017
 12/05/2017,China,Sun Yat-sen University,Educational Services,Korea (the Democratic People's Republic of),NGB 3rd Technical Surveillance Bureau,Financial,Disruptive,Data Attack,2017
 12/05/2017,India,Government of West Bengal,Public Administration,Korea (the Democratic People's Republic of),NGB 3rd Technical Surveillance Bureau,Financial,Disruptive,Data Attack,2017
@@ -7831,7 +7831,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 30/12/2016,United States of America,Drudge Report,Information,Undetermined,Undetermined,Undetermined,Disruptive,External Denial of Service,2016
 30/12/2016,United States of America,Topps,Retail Trade,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2016
 30/12/2016,Undetermined,Bilderberg Group,Administrative and Support and Waste Management and Remediation Services,Undetermined,Anonymous,Protest,Disruptive,Message Manipulation,2016
-29/12/2016,United States of America,Democratic National Committee,Other Services (except Public Administration),Russian Federation,FSB 18th�Center for Information Security (Berserk Bear); GRU Unit 26165 (FANCY BEAR),Political-Espionage,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2016
+29/12/2016,United States of America,Democratic National Committee,Other Services (except Public Administration),Russian Federation,FSB 18th Center for Information Security (Berserk Bear); GRU Unit 26165 (FANCY BEAR),Political-Espionage,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2016
 29/12/2016,Finland,OSCE (Organization for Security and Co-operation in Europe),Public Administration,Russian Federation,GRU 85th Main Special Service Center (Unit 26165) (FANCYBEAR),Political-Espionage,Exploitive,Exploitation of Application Server,2016
 28/12/2016,United States of America,State's Division of Public Behavioral Health (DPBH),Public Administration,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2016
 28/12/2016,United States of America,Intercontinental Hotel Group (IHG),Accommodation and Food Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Sensors,2016
@@ -7938,7 +7938,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 25/11/2016,United States of America,United States Anti-Doping Agency,Other Services (except Public Administration),Russian Federation,GRU 85th Main Special Service Center (Unit 26165) (FANCYBEAR),Undetermined,Exploitive,Exploitation of Application Server,2016
 24/11/2016,United States of America,Vascular Surgical Associates,Health Care and Social Assistance,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2016
 23/11/2016,United States of America,Ask,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Undetermined,Exploitive,"Exploitation of End Hosts,Exploitation of Network Infrastructure",2016
-23/11/2016,Mexico,Instituto de la FunciÃƒÆ'Ã†'Ãƒ'Ã'Â³n Registral del Estado MÃƒÆ'Ã†'Ãƒ'Ã'Â©xico (IFREM),Public Administration,Undetermined,Gh0s7,Undetermined,Exploitive,Exploitation of Application Server,2016
+23/11/2016,Mexico,Instituto de la FunciÃÆÃ'Ãâ 'ÃÆ'Ã'ÃÂ³n Registral del Estado MÃÆÃ'Ãâ 'ÃÆ'Ã'ÃÂ©xico (IFREM),Public Administration,Undetermined,Gh0s7,Undetermined,Exploitive,Exploitation of Application Server,2016
 23/11/2016,United States of America,Mailchimp,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2016
 23/11/2016,United Kingdom of Great Britain and Northern Ireland,Deliveroo,Accommodation and Food Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2016
 22/11/2016,United States of America,Madison Square Garden,"Arts, Entertainment, and Recreation",Undetermined,Undetermined,Financial,Exploitive,Exploitation of Sensors,2016
@@ -8179,7 +8179,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 05/08/2016,Brazil,Mayor of Rio de Janeiro,Public Administration,Brazil,Anonymous (Brazil),Protest,Exploitive,Exploitation of End Hosts,2016
 05/08/2016,United States of America,The Khronos Group (khronos.org),Other Services (except Public Administration),Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2016
 04/08/2016,Philippines,Department of Justice of the Philippines,Public Administration,Undetermined,Undetermined,Political-Espionage,Exploitive,Exploitation of End Hosts,2016
-04/08/2016,Ireland,An Garda SÃƒÆ'Ã†'Ãƒ'Ã'Â­ochÃƒÆ'Ã†'Ãƒ'Ã'Â¡na (Irish Police),Public Administration,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2016
+04/08/2016,Ireland,An Garda SÃÆÃ'Ãâ 'ÃÆ'Ã'ÃÂ­ochÃÆÃ'Ãâ 'ÃÆ'Ã'ÃÂ¡na (Irish Police),Public Administration,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2016
 04/08/2016,Undetermined,PlayStation Network,"Professional, Scientific, and Technical Services",Undetermined,PoodleCorp,Undetermined,Disruptive,External Denial of Service,2016
 04/08/2016,Undetermined,GTAOnline,Information,Undetermined,PoodleCorp,Undetermined,Disruptive,External Denial of Service,2016
 04/08/2016,Undetermined,Islamic State forum on the dark web,Other Services (except Public Administration),Israel,Intsights,Political-Espionage,Exploitive,Exploitation of Application Server,2016
@@ -8431,7 +8431,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 18/05/2016,United States of America,Complete Chiropractic & Bodywork Therapies,Health Care and Social Assistance,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2016
 18/05/2016,Turkey,33 Turkish Hospitals,Health Care and Social Assistance,Undetermined,Anonymous,Protest,Exploitive,Exploitation of Application Server,2016
 18/05/2016,Australia,The Sydney Morning Herald,Information,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2016
-18/05/2016,Mexico,Daniel Liz�rraga,Other Services (except Public Administration),Undetermined,Undetermined,Political-Espionage,Exploitive,Exploitation of End Hosts,2016
+18/05/2016,Mexico,Daniel Liz¡rraga,Other Services (except Public Administration),Undetermined,Undetermined,Political-Espionage,Exploitive,Exploitation of End Hosts,2016
 18/05/2016,Mexico,Rafael Cabrera,Other Services (except Public Administration),Undetermined,Undetermined,Political-Espionage,Exploitive,Exploitation of End Hosts,2016
 17/05/2016,Mexico,Alexandra Zapata,Other Services (except Public Administration),Undetermined,Undetermined,Political-Espionage,Exploitive,Exploitation of End Hosts,2016
 16/05/2016,Sri Lanka,Commercial Bank of Ceylon,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2016
@@ -8470,7 +8470,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 12/05/2016,China,Ma Huateng,Other Services (except Public Administration),Undetermined,shenfenzheng,Undetermined,Exploitive,Exploitation of Application Server,2016
 12/05/2016,Undetermined,Unnamed adult forum,Information,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2016
 12/05/2016,China,Jack Ma,Other Services (except Public Administration),Undetermined,shenfenzheng,Undetermined,Exploitive,Exploitation of Application Server,2016
-12/05/2016,Mexico,Sebastin Barrag�n,Other Services (except Public Administration),Undetermined,Undetermined,Political-Espionage,Exploitive,Exploitation of End Hosts,2016
+12/05/2016,Mexico,Sebastin Barrag¡n,Other Services (except Public Administration),Undetermined,Undetermined,Political-Espionage,Exploitive,Exploitation of End Hosts,2016
 12/05/2016,United States of America,Tumblr,Information,Undetermined,Peace,Financial,Exploitive,Exploitation of Application Server,2016
 11/05/2016,Germany,German Christian Democratic Union,Public Administration,Russian Federation,GRU 85th Main Special Service Center (Unit 26165) (FANCYBEAR),Political-Espionage,Exploitive,Exploitation of Application Server,2016
 11/05/2016,United States of America,Medical Colleagues of Texas,Health Care and Social Assistance,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2016
@@ -8496,7 +8496,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 06/05/2016,Dominican Republic,Central Bank of the Dominican Republic,Finance and Insurance,Undetermined,Anonymous,Protest,Disruptive,External Denial of Service,2016
 05/05/2016,United States of America,Bay Area Children's Association,Other Services (except Public Administration),Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2016
 05/05/2016,United States of America,Saint Agnes Medical Center,Health Care and Social Assistance,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Hosts,2016
-05/05/2016,Switzerland,RUAG,Undetermined,Russian Federation,FSB 18th�Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,Exploitation of Application Server,2016
+05/05/2016,Switzerland,RUAG,Undetermined,Russian Federation,FSB 18th Center for Information Security (Berserk Bear),Political-Espionage,Exploitive,Exploitation of Application Server,2016
 05/05/2016,United States of America,Reddit,Information,Undetermined,@TehBVM,Undetermined,Disruptive,Message Manipulation,2016
 05/05/2016,United States of America,Neopets,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2016
 05/05/2016,United States of America,Equifax,"Professional, Scientific, and Technical Services",Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2016
@@ -8901,7 +8901,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 08/01/2016,Nigeria,Nigerian Ministry of Finance,Public Administration,Nigeria,Anonymous (Nigeria),Protest,Disruptive,External Denial of Service,2016
 08/01/2016,Pakistan,Pakistan Bar Council,Public Administration,Pakistan,IBH (Indian Black Hats),Protest,Disruptive,Message Manipulation,2016
 08/01/2016,Nigeria,Federal Capital Territory Administration,Public Administration,Nigeria,Anonymous (Nigeria),Protest,Disruptive,External Denial of Service,2016
-08/01/2016,India,"Indian Institute of Management ÃƒÆ'Ã'Â¢Ãƒ'Ã¢'Â¬Ãƒ'"" Ahmedabad (IIM-A)",Educational Services,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2016
+08/01/2016,India,"Indian Institute of Management ÃÆÃ'Ã'ÃÂ¢ÃÆ'ÃÂ¢'ÃÂ¬ÃÆ'"" Ahmedabad (IIM-A)",Educational Services,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of Application Server,2016
 07/01/2016,United States of America,battlefy.com,"Professional, Scientific, and Technical Services",Undetermined,@ciadotgov,Undetermined,Exploitive,Exploitation of Application Server,2016
 07/01/2016,Japan,Japanese Banks' Customers,Finance and Insurance,Undetermined,Undetermined,Financial,Exploitive,"Exploitation of Application Server,Exploitation of End Hosts",2016
 07/01/2016,United States of America,Time Warner Cable,Information,Undetermined,Undetermined,Financial,Exploitive,Exploitation of End Hosts,2016
@@ -9169,7 +9169,7 @@ Date ,Location,Victim,Industry,Actor Location,Actor,Motive,Type,Sub-Type,Year
 25/09/2015,United States of America,Hilton Hotel,Accommodation and Food Services,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Sensors,2015
 25/09/2015,United States of America,North Oldham High School,Educational Services,Undetermined,Undetermined,Undetermined,Exploitive,Exploitation of End Hosts,2015
 25/09/2015,United States of America,http://www.padlocks4less.com/,Wholesale Trade,Undetermined,Undetermined,Financial,Exploitive,Exploitation of Application Server,2015
-25/09/2015,Mexico,David PeÃƒÆ'Ã†'Ãƒ'Ã'Â±a,Other Services (except Public Administration),Undetermined,Undetermined,Political-Espionage,Exploitive,Exploitation of End Hosts,2015
+25/09/2015,Mexico,David PeÃÆÃ'Ãâ 'ÃÆ'Ã'ÃÂ±a,Other Services (except Public Administration),Undetermined,Undetermined,Political-Espionage,Exploitive,Exploitation of End Hosts,2015
 24/09/2015,United States of America,8chan,Information,Undetermined,Undetermined,Undetermined,Disruptive,External Denial of Service,2015
 24/09/2015,United States of America,4chan,Information,Undetermined,Undetermined,Undetermined,Disruptive,External Denial of Service,2015
 24/09/2015,United States of America,Imgur,Information,Undetermined,Undetermined,Undetermined,Disruptive,Internal Denial of Service,2015
